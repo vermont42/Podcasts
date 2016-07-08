@@ -1,22 +1,22 @@
 iOS-Development Podcasts
 ===================
 
-The following is a list of podcasts of interest to iOS developers. Frequencies are approximate. Average length is of the past three episodes as of July 7, 2016. Corrections and suggestions are welcome. Most URLs are for the RSS feeds, but some are for the podcasts' websites.
+The following is a list of podcasts of interest to iOS developers. Frequencies are approximate. Average length is of the past three episodes as of July 7, 2016. Corrections and  suggestions are welcome. Most URLs are for the RSS feeds, but some are for the podcasts' websites.
 
 ### Accidental Tech Podcast
-* Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and other topics.
+* Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * URL: http://atp.fm/episodes?format=rss
 * Frequency: weekly
 * Average Length: 1:39:15
 
 ### Build Phase
-* Description: Three iOS developers discuss knotty programming problems they are facing. This is arguably the most technical iOS podcast.
+* Description: Three iOS developers discuss knotty programming [problems](https://github.com/thoughtbot/Argo) they are facing. This is arguably the most technical iOS podcast.
 * URL: http://simplecast.com/podcasts/272/rss
 * Frequency: weekly
 * Average Length: 44:03
 
 ### CacaoCast
-* Description: Two iOS developers discuss in French events and tools of interest to iOS developers. Though both are residents and apparently natives of Quebec, the untrained ear can detect a Quebec accent on only one of the hosts.
+* Description: Two iOS developers discuss in French events and tools of interest to iOS developers. Though both are residents and apparently natives of Quebec, the untrained ear can detect a Quebec [accent](https://fr.wikipedia.org/wiki/Français_québécois) on only one of the hosts.
 * URL: http://cacaocast.com/rss
 * Frequency: monthly
 * Average Length: 46:24
@@ -28,7 +28,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 1:53:50
 
 ### Concepts in Code
-* Description: An iOS and a Java developer discuss development of a side project and other software-development subjects. The catchy intro song brings to mind the Indigo Girls, a folk band founded in 1985.
+* Description: An iOS and a Java developer discuss development of a side project and other software-development subjects. The catchy intro song brings to mind the [Indigo Girls](https://www.youtube.com/watch?v=HUgwM1Ky228), a folk band founded in 1985.
 * URL: http://conceptsincode.com/rss
 * Frequency: monthly
 * Average Length: 39:49
@@ -58,7 +58,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 1:01:45
 
 ### iPhreaks
-* Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist Andy Summers.
+* Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 
 * URL: https://devchat.tv/iphreaks
 * Frequency: weekly
@@ -89,7 +89,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 40:50
 
 ### Release Notes
-* Description: An indie iOS developer and an indie iOS developer/designer/bassist/impressario discuss the business of indie-app development.
+* Description: An indie iOS developer and an indie iOS developer/designer/[bassist](http://airplanemo.de)/impressario discuss the business of indie-app development.
 * URL: https://releasenotes.tv/feed/podcast/
 * Frequency: weekly
 * Average Length: 37:46
@@ -101,7 +101,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 36:32
 
 ### Simple Programmer Podcast
-* Description: A former developer and current life coach answers questions from software developers.
+* Description: A former developer and current [writer](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/)/life coach answers questions from software developers.
 * URL: http://simpleprogrammer.libsyn.com/rss
 * Frequency: daily
 * Average Length: 5:51
@@ -113,7 +113,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 58:09
 
 ### Talk Show with John Gruber
-* Description: A former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
+* Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
 * URL: http://daringfireball.net/thetalkshow/rss
 * Frequency: weekly
 * Average Length: 1:56:40
