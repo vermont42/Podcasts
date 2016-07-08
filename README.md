@@ -59,7 +59,6 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 
 ### iPhreaks
 * Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
-
 * URL: https://devchat.tv/iphreaks
 * Frequency: weekly
 * Average Length: 55:19
