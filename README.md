@@ -150,7 +150,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 29:24
 
 ### Verbose Podcast
-* Description: Three 🇮🇪 iOS developers discuss iOS development, the business of app selling, and news from the Apple ecosystem.
+* Description: Three 🇮🇪 iOS developers [discuss](http://www.ireland-fun-facts.com/craic.html) iOS development, the business of app selling, and news from the Apple ecosystem.
 * URL: http://verbose-ireland.s3.amazonaws.com/the-verbose-podcast.xml
 * Frequency: gach mí
 * Average Length: 1:31:42
