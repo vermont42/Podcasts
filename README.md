@@ -117,6 +117,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: daily
 * Average Length: 58:09
 
+### Swift Playhouse
+* Description: Two Swift learners discuss Swift-learning resources and the learning process.
+* URL: http://www.swiftplayhouse.com
+* Frequency: weekly
+* Average Length: 14:40
+
 ### Talk Show with John Gruber
 * Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
 * URL: http://daringfireball.net/thetalkshow/rss
