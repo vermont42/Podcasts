@@ -53,6 +53,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: intermittent
 * Average Length: 1:29:15
 
+### iDeveloper Podcast
+* Description: A Mac and iOS developer/[guru](https://youtu.be/9VojuJpUuE8?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) discuss Apple-software development and other topics.
+* URL: http://blog.ideveloper.co
+* Frequency: weeklyish
+* Average Length: 31:43
+
 ### iOhYes
 * Description: Three iOS developers discuss with a guest one iOS-development topic per episode.
 * URL: http://feeds.5by5.tv/iohyes
@@ -142,6 +148,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * URL: https://www.relay.fm/radar/feed
 * Frequency: weekly
 * Average Length: 29:24
+
+### Verbose Podcast
+* Description: Three 🇮🇪 iOS developers discuss iOS development, the business of app selling, and news from the Apple ecosystem.
+* URL: http://verbose-ireland.s3.amazonaws.com/the-verbose-podcast.xml
+* Frequency: gach mí
+* Average Length: 1:31:42
 
 ### Dearly Departed Podcasts
 * CocoaRadio
