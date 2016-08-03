@@ -93,6 +93,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weekly
 * Average Length: 37:46
 
+### Runtime
+* Description: Two iOS developers discuss the nuts and bolts of iOS and, in particular, Swift development.
+* URL: http://simplecast.com/podcasts/2070/rss
+* Frequency: weekly
+* Average Length: 23:42
+
 ### SharedInstance
 * Description: Three iOS developers discuss various iOS-development topics.
 * URL: http://simplecast.com/podcasts/1008/rss
@@ -116,6 +122,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * URL: http://daringfireball.net/thetalkshow/rss
 * Frequency: weekly
 * Average Length: 1:56:40
+
+### Tentative
+* Description: Two digital-product designers discuss digital-product design, often addressing subjects of interest to iOS developers.
+* URL: http://simplecast.com/podcasts/1088/rss
+* Frequency: weekly
+* Average Length: 31:01
 
 ### Under the Radar
 * Description: Two indie iOS developers discuss the business, nuts, and bolts of indie iOS-app development.
