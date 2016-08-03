@@ -142,6 +142,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 29:24
 
 ### Dearly Departed Podcasts
+* CocoaRadio
 * Bitsplitting
 * Edge Cases
 * Identical Cousins
