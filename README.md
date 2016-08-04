@@ -125,6 +125,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: daily
 * Average Length: 58:09
 
+### SwiftCoders
+* Description: An iOS developer interviews a different iOS or Mac developer each week about developing for Apple platforms. The [host](https://twitter.com/garricn) uses an interesting [app](https://tryca.st) to record, edit, publish, and host the podcast.
+* URL: http://swiftcoders.podbean.com/feed/
+* Frequency: weekly
+* Average Length: 63:42
+
 ### Swift Playhouse
 * Description: Two Swift learners discuss Swift-learning resources and the learning process.
 * URL: http://www.swiftplayhouse.com
