@@ -165,7 +165,15 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * CocoaRadio
 * Bitsplitting
 * Edge Cases
+* History of Rome
 * Identical Cousins
 * Notification Center
 * NSBrief
 * Springboard
+
+### Credits
+Thanks to all the podcasts and to [iOS Dev Weekly](https://iosdevweekly.com) and [Indie iOS Focus Weekly](https://indieiosfocus.curated.co) for helping to publicize this list.
+
+![iOS Dev Weekly](weekly.png "iOS Dev Weekly")
+
+![Indie iOS Focus Weekly](indie.png "Indie iOS Focus Weekly")
