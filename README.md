@@ -161,7 +161,8 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: gach mí
 * Average Length: 1:31:42
 
-### Dearly Departed Podcasts
+Dearly Departed Podcasts
+========================
 * CocoaRadio
 * Bitsplitting
 * Edge Cases
@@ -171,7 +172,8 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * NSBrief
 * Springboard
 
-### Credits
+Credits
+=======
 Thanks to all the podcasts and to [iOS Dev Weekly](https://iosdevweekly.com) and [Indie iOS Focus Weekly](https://indieiosfocus.curated.co) for helping to publicize this list.
 
 ![iOS Dev Weekly](weekly.png "iOS Dev Weekly")
