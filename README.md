@@ -54,7 +54,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 1:29:15
 
 ### Fatal Error
-* Description: Two iOS developers, including one of the community's most insightful [blog](http://khanlou.com)gers, "discuss topics at the cutting edge of iOS software architecture, Swift, and best practices."
+* Description: Two iOS developers, including one of the community's most insightful [blog](http://khanlou.com)gers, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices."
 * URL: http://fatalerror.fm
 * Frequency: biweekly
 * Average Length: 27:36
@@ -75,7 +75,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 * URL: https://devchat.tv/iphreaks
 * Frequency: weekly
-* Average Length: 55:19
+* Average Length: 55:19 
 
 ### Mobile Couch
 * Description: Two iOS developers discuss various iOS-development topics.
