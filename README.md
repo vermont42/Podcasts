@@ -166,6 +166,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * URL: http://verbose-ireland.s3.amazonaws.com/the-verbose-podcast.xml
 * Frequency: gach mí
 * Average Length: 1:31:42
+ 
+### Worst Case Scenario
+* Description: Three iOS developers from Limerick, Ireland discuss app development, tech, education and life
+* URL: http://worstcasescenario.ie/feed/podcast
+* Frequency: weekly
+* Average Length: 1:00:18
 
 Dearly Departed Podcasts
 ========================
