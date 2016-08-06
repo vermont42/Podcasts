@@ -71,6 +71,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weekly
 * Average Length: 55:19
 
+### Fatal Error
+* Description: Two iOS developers "discuss topics at the cutting edge of iOS software architecture, Swift, and best practices."
+* URL: http://fatalerror.fm
+* Frequency: biweekly
+* Average Length: 27:36
+
 ### Mobile Couch
 * Description: Two iOS developers discuss various iOS-development topics.
 * URL: http://mobilecouch.co/rss
@@ -170,6 +176,7 @@ Dearly Departed Podcasts
 * Identical Cousins
 * Notification Center
 * NSBrief
+* The Record
 * Springboard
 
 Credits
