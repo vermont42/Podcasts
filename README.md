@@ -7,9 +7,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 
 ### Accidental Tech Podcast
 * Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
-* URL: http://atp.fm/episodes?format=rss
+* URL: http://atp.fm/
+* RSS: http://atp.fm/episodes?format=rss
 * Frequency: weekly
 * Average Length: 1:39:15
+* Twitter: [@atpfm](https://twitter.com/atpfm)
+* Hosts: [@siracusa](https://twitter.com/siracusa), [@marcoarment](https://twitter.com/marcoarment), [@caseyliss](https://twitter.com/caseyliss)
 
 ### Build Phase
 * Description: Three iOS developers discuss knotty programming [problems](https://github.com/thoughtbot/Argo) they are facing. This is arguably the most technical iOS podcast.
@@ -36,34 +39,37 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 39:49
 
 ### Consult
-* Description: A freelance iOS developer interviews a different guest each episode about contract iOS development. The host is a graduate of the college where BASIC was invented.
-* URL: http://consultpodcast.com/rss
+* Description: An interview podcast about iOS and Mac software development specifically concerning the world of consultants – those who build apps for others. Content includes a mix of topical episodes and interviews with consultants and other developers.
+* URL: http://consultpodcast.com/
+* RSS: http://consultpodcast.com/rss
 * Frequency: monthly
 * Average Length: 1:07:08
+* Host: [@davekopec](https://twitter.com/davekopec)
 
 ### Core Intuition
 * Description: An iOS and a macOS developer discuss the business of indie app development and, less frequently, more-technical subjects.
-* URL: http://www.coreint.org/podcast.xml
+* URL: http://www.coreint.org/
+* RSS: URL: http://www.coreint.org/podcast.xml
 * Frequency: weekly
 * Average Length: 47:33
+* Twitter: [@coreint](https://twitter.com/coreint)
+* Hosts: [@danielpunkass](https://twitter.com/danielpunkass), [@manton](https://twitter.com/manton)
 
 ### Debug
 * Description: A tech journalist and an iOS developer interview various guests about subjects of interest to residents of the Apple ecosystem.
 * URL: http://www.imore.com/debug
 * Frequency: intermittent
 * Average Length: 1:29:15
-
-### Fatal Error
-* Description: Two iOS developers, including one of the community's most insightful [blog](http://khanlou.com)gers, "discuss topics at the cutting edge of iOS software architecture, Swift, and best practices."
-* URL: http://fatalerror.fm
-* Frequency: biweekly
-* Average Length: 27:36
+* Twitter: [@debugcast](https://twitter.com/debugcast)
+* Hosts: [@gte](https://twitter.com/gte), [@reneritchie](https://twitter.com/reneritchie)
 
 ### iDeveloper Podcast
 * Description: A Mac and iOS developer/[guru](https://youtu.be/9VojuJpUuE8?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) discuss Apple-software development and other topics.
 * URL: http://blog.ideveloper.co
 * Frequency: weeklyish
 * Average Length: 31:43
+* Twitter: [@idevelopershow](https://twitter.com/idevelopershow)
+* Hosts: [@macdevnet](https://twitter.com/macdevnet), [@djembe](https://twitter.com/djembe)
 
 ### iOhYes
 * Description: Three iOS developers discuss with a guest one iOS-development topic per episode.
@@ -76,6 +82,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * URL: https://devchat.tv/iphreaks
 * Frequency: weekly
 * Average Length: 55:19
+
+### Fatal Error
+* Description: Two iOS developers "discuss topics at the cutting edge of iOS software architecture, Swift, and best practices."
+* URL: http://fatalerror.fm
+* Frequency: biweekly
+* Average Length: 27:36
 
 ### Mobile Couch
 * Description: Two iOS developers discuss various iOS-development topics.
@@ -145,9 +157,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 
 ### Talk Show with John Gruber
 * Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
-* URL: http://daringfireball.net/thetalkshow/rss
+* URL: http://daringfireball.net/thetalkshow/
+* RSS: http://daringfireball.net/thetalkshow/rss
 * Frequency: weekly
 * Average Length: 1:56:40
+* Twitter: [@thetalkshow](https://twitter.com/thetalkshow)
+* Host: [@gruber](https://twitter.com/gruber)
 
 ### Tentative
 * Description: Two digital-product designers discuss digital-product design, often addressing subjects of interest to iOS developers.
