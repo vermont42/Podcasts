@@ -75,7 +75,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 * URL: https://devchat.tv/iphreaks
 * Frequency: weekly
-* Average Length: 55:19 
+* Average Length: 55:19
 
 ### Mobile Couch
 * Description: Two iOS developers discuss various iOS-development topics.
@@ -166,9 +166,9 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * URL: http://verbose-ireland.s3.amazonaws.com/the-verbose-podcast.xml
 * Frequency: gach mí
 * Average Length: 1:31:42
- 
+
 ### Worst Case Scenario
-* Description: Three iOS developers from Limerick, Ireland discuss app development, tech, education and life
+* Description: Three iOS developers from Limerick, Ireland discuss app development, tech, education[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and life.
 * URL: http://worstcasescenario.ie/feed/podcast
 * Frequency: weekly
 * Average Length: 1:00:18
