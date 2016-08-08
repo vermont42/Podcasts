@@ -143,7 +143,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weekly
 * Average Length: 14:40
 
-### Talk Show with John Gruber
+### The Talk Show with John Gruber
 * Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
 * URL: http://daringfireball.net/thetalkshow/rss
 * Frequency: weekly
