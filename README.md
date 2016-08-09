@@ -77,6 +77,12 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weekly
 * Average Length: 55:19
 
+### Merge Conflict
+* Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno) both cross platform mobile developers discuss various development topics.
+* URL: http://simplecast.com/podcasts/2117/rss
+* Frequency: weekly
+* Average Length: 33:33
+
 ### Mobile Couch
 * Description: Two iOS developers discuss various iOS-development topics.
 * URL: http://mobilecouch.co/rss
