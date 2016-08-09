@@ -77,10 +77,16 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weekly
 * Average Length: 55:19
 
-### Mobile & Beer (Hebrew)
- * Description: In each episode, three Israeli developers drink a different beer, discuss news and share personal stories about mobile development (especially Apple & iOS).
+### Merge Conflict
+ * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers, discuss various development topics.
+ * URL: http://simplecast.com/podcasts/2117/rss
+ * Frequency: weekly
+ * Average Length: 33:33
+
+### Mobile & Beer
+ * Description: In each episode, three Israeli, Hebrew-speaking developers drink a different beer, discuss news, and share personal stories about mobile development (especially Apple & iOS).
  * URL: http://www.mobileandbeer.com/podcast.xml
- * Frequencyi: intermittent
+ * Frequency: intermittent
  * Average Length: 53:48
 
 ### Mobile Couch
