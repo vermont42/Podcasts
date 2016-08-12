@@ -3,53 +3,73 @@ iOS-Development Podcasts
 
 ![Podcasts](podcasts.png "Some Podcasts, as Seen in iCatcher")
 
-The following is a list of podcasts of interest to iOS developers. Frequencies are approximate. Average length is of the past three episodes as of July 7, 2016. Corrections and suggestions are welcome. Most URLs are for the RSS feeds, but some are for the podcasts' websites.
+The following is a list of podcasts of interest to iOS developers. Frequencies are approximate. Average length is of the past three episodes. Corrections and suggestions are welcome.
+
+I am in the process of adding separate fields for RSS versus URL, plus Twitter. For shows that do not have dedicated Twitter accounts, hosts' accounts are listed.
+
+The addition of fields is complete up to `Debug`.
 
 ### Accidental Tech Podcast
 * Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
-* URL: http://atp.fm/episodes?format=rss
+* URL: http://atp.fm/
+* RSS: http://atp.fm/episodes?format=rss
+* Twitter: [@atpfm](https://twitter.com/atpfm)
 * Frequency: weekly
 * Average Length: 1:39:15
 
 ### Build Phase
-* Description: Three iOS developers discuss knotty programming [problems](https://github.com/thoughtbot/Argo) they are facing. This is arguably the most technical iOS podcast.
-* URL: http://simplecast.com/podcasts/272/rss
+* Description: Three iOS developers discuss knotty programming [problems](https://github.com/thoughtbot/Argo) they are facing. This is one of the most technical iOS podcasts.
+* URL: http://buildphase.fm
+* RSS: http://simplecast.com/podcasts/272/rss
+* Twitter: [@buildphase](https://twitter.com/buildphase)
 * Frequency: weekly
 * Average Length: 44:03
 
 ### CacaoCast
 * Description: Two iOS developers discuss in French events and tools of interest to iOS developers. Though both are residents and apparently natives of Quebec, the untrained ear can detect a Quebec [accent](https://fr.wikipedia.org/wiki/Français_québécois) on only one of the hosts.
-* URL: http://cacaocast.com/rss
+* URL: http://cacaocast.com/
+* RSS: http://cacaocast.com/rss
+* Twitter: [@cacaocast](https://twitter.com/cacaocast)
 * Frequency: monthly
 * Average Length: 46:24
 
 ### Coding Blocks
 * Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
-* URL: http://www.codingblocks.net/feed/
+* URL: http://www.codingblocks.net/
+* RSS: http://www.codingblocks.net/feed/
+* Twitter: [@codingblocks](https://twitter.com/codingblocks)
 * Frequency: monthly
 * Average Length: 1:53:50
 
 ### Concepts in Code
 * Description: An iOS and a Java developer discuss development of a side project and other software-development subjects. The catchy intro song brings to mind the [Indigo Girls](https://www.youtube.com/watch?v=HUgwM1Ky228), a folk band founded in 1985.
-* URL: http://conceptsincode.com/rss
+* URL: http://conceptsincode.com/
+* RSS: http://conceptsincode.com/rss
+* Twitter: [@bjmillerltd](https://twitter.com/bjmillerltd), [@HankTurowski](https://twitter.com/HankTurowski)
 * Frequency: monthly
 * Average Length: 39:49
 
 ### Consult
-* Description: A freelance iOS developer interviews a different guest each episode about contract iOS development. The host is a graduate of the college where BASIC was invented.
-* URL: http://consultpodcast.com/rss
+* An interview podcast about iOS and Mac software development specifically concerning the world of consultants – those who build apps for others. Content includes a mix of topical episodes and interviews with consultants and other developers.
+* URL: http://consultpodcast.com/
+* RSS: http://consultpodcast.com/rss
+* Twitter: [@davekopec](https://twitter.com/davekopec)
 * Frequency: monthly
 * Average Length: 1:07:08
 
 ### Core Intuition
 * Description: An iOS and a macOS developer discuss the business of indie app development and, less frequently, more-technical subjects.
-* URL: http://www.coreint.org/podcast.xml
+* URL: http://www.coreint.org/
+* RSS: URL: http://www.coreint.org/podcast.xml
+* Twitter: [@coreint](https://twitter.com/coreint)
 * Frequency: weekly
 * Average Length: 47:33
 
 ### Debug
 * Description: A tech journalist and an iOS developer interview various guests about subjects of interest to residents of the Apple ecosystem.
 * URL: http://www.imore.com/debug
+* RSS: http://feeds.feedburner.com/debugshow
+* Twitter: [@debugcast](https://twitter.com/debugcast)
 * Frequency: intermittent
 * Average Length: 1:29:15
 
@@ -169,7 +189,9 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 
 ### The Talk Show with John Gruber
 * Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
-* URL: http://daringfireball.net/thetalkshow/rss
+* URL: http://daringfireball.net/thetalkshow/
+* RSS: http://daringfireball.net/thetalkshow/rss
+* Twitter: [@thetalkshow](https://twitter.com/thetalkshow)
 * Frequency: weekly
 * Average Length: 1:56:40
 
