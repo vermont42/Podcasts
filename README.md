@@ -65,6 +65,18 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weeklyish
 * Average Length: 31:43
 
+### Immutable
+* Description: A short, weekly show about design and development (usually iOS) hosted by Sam Soffes & Bryn Jackson.
+* URL: https://spec.fm/podcasts/immutable
+* Frequency: weekly
+* Average Length: 20:00
+
+### iOSBytes
+* Description: Quick rundown of interesting iOS development links.
+* URL: https://iosbytes.codeschool.com/
+* Frequency: weekly
+* Average Length: 5:00
+
 ### iOhYes
 * Description: Three iOS developers discuss with a guest one iOS-development topic per episode.
 * URL: http://feeds.5by5.tv/iohyes
