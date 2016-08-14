@@ -201,6 +201,13 @@ The addition of fields is complete up to `Debug`.
 * Frequency: weekly
 * Average Length: 31:01
 
+### Topical
+* Description: Two entrepreneurial iOS developers discuss one topic per episode, often directly or tangentially related to iOS development.
+* URL: http://topical.fm
+* RSS: https://podcasts.jellystyle.com/topical/rss
+* Frequency: weekly
+* Average Length: 21:02
+
 ### Under the Radar
 * Description: Two indie iOS developers discuss the business, nuts, and bolts of indie iOS-app development.
 * URL: https://www.relay.fm/radar/feed
