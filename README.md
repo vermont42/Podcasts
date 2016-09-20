@@ -175,6 +175,14 @@ The addition of fields is complete up to `Debug`.
 * Frequency: daily
 * Average Length: 58:09
 
+### Supertop Podcast
+* Description: Two Irish developers of an iOS app drawing upon that country's tradition of amazing [craftsmanship](https://www.tcd.ie/Library/manuscripts/book-of-kells.php) discuss app development and sometimes interview [guests](http://inessential.com).
+* URL: http://supertop.co
+* RSS: http://cast.rocks/hosting/2041/feeds/CQMQA.xml
+* Twitter: [@supertopsquid](https://twitter.com/supertopsquid)
+* Frequency: weekly
+* Average Length: 43:42
+
 ### SwiftCoders
 * Description: An iOS developer interviews a different iOS or Mac developer each week about developing for Apple platforms. The [host](https://twitter.com/garricn) uses an interesting [app](https://tryca.st) to record, edit, publish, and host the podcast.
 * URL: http://swiftcoders.podbean.com/feed/
