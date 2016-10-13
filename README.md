@@ -24,12 +24,12 @@ I am in the process of adding separate fields for RSS versus URL, plus Twitter. 
 * Average Length: 44:03
 
 ### CacaoCast
-* Description: Two iOS developers discuss in French events and tools of interest to iOS developers. Though both are residents and apparently natives of Quebec, the untrained ear can detect a Quebec [accent](https://fr.wikipedia.org/wiki/Français_québécois) on only one of the hosts.
+* Description: After a change in focus, this podcast is now a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight. The reader's comprehension of this description is likely thanks to tanner's son [Guillaume le Conquérant](https://en.wikipedia.org/wiki/William_the_Conqueror).
 * URL: http://cacaocast.com/
 * RSS: http://cacaocast.com/rss
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
-* Frequency: monthly
-* Average Length: 46:24
+* Frequency: weekly
+* Average Length: 14:30
 
 ### Coding Blocks
 * Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
@@ -118,6 +118,14 @@ I am in the process of adding separate fields for RSS versus URL, plus Twitter. 
 * Twitter: [@devchattv](http://twitter.com/devchattv)
 * Frequency: weekly
 * Average Length: 55:19
+
+### Janie Rants
+* Description: The host, an iOS developer, explores topics in coding that she has encountered in her work that she finds interesting and that she wants to share with listeners.
+* URL: http://janierants.com
+* RSS: http://janierants.com/?feed=podcast
+* Twitter: [@RedQueenCoder](https://twitter.com/RedQueenCoder)
+* Frequency: weekly
+* Average Length: 11:20
 
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers, discuss various development topics.
