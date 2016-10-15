@@ -5,8 +5,6 @@ iOS-Development Podcasts
 
 The following is a list of podcasts of interest to iOS developers. Frequencies are approximate. Average length is of the past three episodes. Corrections and suggestions are welcome.
 
-I am in the process of adding separate fields for RSS versus URL, plus Twitter. For shows that do not have dedicated Twitter accounts, hosts' accounts are listed.
-
 ### Accidental Tech Podcast
 * Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * URL: http://atp.fm/
