@@ -3,7 +3,11 @@ iOS-Development Podcasts
 
 ![Podcasts](podcasts.png "Some Podcasts, as Seen in iCatcher")
 
-The following is a list of podcasts of interest to iOS developers. Frequencies are approximate. Average length is of the past three episodes. Corrections and suggestions are welcome.
+The following is a list of podcasts of interest to iOS developers and other habitués of the Apple ecosystem.
+
+Podcast frequencies are approximate. Average length is of the past three episodes.
+
+Corrections and suggestions are welcome.
 
 ### Accidental Tech Podcast
 * Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
