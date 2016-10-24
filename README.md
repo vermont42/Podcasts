@@ -70,7 +70,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 1:29:15
 
 ### Fatal Error
-* Description: Two iOS developers, including one of the community's most insightful [blog](http://khanlou.com)gers, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices."
+* Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices."
 * URL: http://fatalerror.fm
 * RSS: http://fatalerror.fm/episodes?format=RSS
 * Twitter: [@fatalerrorfm](https://twitter.com/fatalerrorfm)
@@ -142,7 +142,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 53:48
 
 ### Mobile Couch
-* Description: Two iOS developers discuss various iOS-development topics.
+* Description: Two iOS developers discuss various iOS-development topics, sometimes with a guest.
 * URL: http://mobilecouch.co
 * RSS: http://mobilecouch.co/rss
 * Twitter: [@_mobilecouch](https://twitter.com/_mobilecouch)
@@ -214,7 +214,7 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Average Length: 58:09
 
 ### Supertop Podcast
-* Description: Two Irish developers of an iOS app drawing upon that country's tradition of amazing [craftsmanship](https://www.tcd.ie/Library/manuscripts/book-of-kells.php) discuss app development and sometimes interview [guests](http://inessential.com).
+* Description: Two Irish developers of an iOS app, drawing upon Ireland's tradition of amazing [craftsmanship](https://www.tcd.ie/Library/manuscripts/book-of-kells.php), discuss app development and sometimes interview [guests](http://inessential.com).
 * URL: http://supertop.co
 * RSS: http://cast.rocks/hosting/2041/feeds/CQMQA.xml
 * Twitter: [@supertopsquid](https://twitter.com/supertopsquid)
@@ -253,14 +253,6 @@ The following is a list of podcasts of interest to iOS developers. Frequencies a
 * Frequency: weekly
 * Average Length: 31:01
 
-### Topical
-* Description: Two entrepreneurial iOS developers discuss one topic per episode, often directly or tangentially related to iOS development.
-* URL: http://topical.fm
-* RSS: https://podcasts.jellystyle.com/topical/rss
-* Twitter: [@topicalfm](http://twitter.com/topicalfm)
-* Frequency: weekly
-* Average Length: 21:02
-
 ### Under the Radar
 * Description: Two indie iOS developers discuss the business, nuts, and bolts of indie iOS-app development.
 * URL: https://www.relay.fm/radar/
@@ -296,6 +288,7 @@ Dearly Departed Podcasts
 * NSBrief
 * The Record
 * Springboard
+* Topical
 
 Credits
 =======
