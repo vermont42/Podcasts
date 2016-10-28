@@ -294,6 +294,7 @@ Dearly Departed Podcasts
 * CocoaRadio
 * Bitsplitting
 * Build and Analyze
+* Developing Perspective
 * Edge Cases
 * History of Rome
 * Hypercritical
