@@ -112,6 +112,14 @@ Corrections and suggestions are welcome.
 * Frequency: weekly
 * Average Length: 17:03
 
+### Infinitum
+* Description: An iOS developer and a 4D ninja discuss, in Serbian, Apple and related technologies.
+* Website: http://www.infinitum.rs
+* Feed: http://simplecast.com/podcasts/320/rss
+* Twitter: [@infinitumcast](https://twitter.com/infinitumcast)
+* Frequency: biweekly
+* Average Length: 2:20:20
+
 ### iOhYes
 * Description: Three iOS developers discuss with a guest one iOS-development topic per episode.
 * Website: http://5by5.tv/iohyes
