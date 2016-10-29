@@ -1,6 +1,12 @@
 iOS-Development Podcasts
 ===================
 
+
+[![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+[![Twitter](https://img.shields.io/badge/twitter-@vermont42-blue.svg?style=flat)](http://twitter.com/vermont42)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![Cat](https://img.shields.io/badge/Cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
+
 ![Podcasts](podcasts.png "Some Podcasts, as Seen in iCatcher")
 
 The following is a list of podcasts of interest to iOS developers and other habitués of the Apple ecosystem.
