@@ -3,6 +3,7 @@ iOS-Development Podcasts
 
 
 [![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/badges/shields.svg)]()
 [![Twitter](https://img.shields.io/badge/twitter-@vermont42-blue.svg?style=flat)](http://twitter.com/vermont42)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![Cat](https://img.shields.io/badge/Cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
