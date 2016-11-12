@@ -33,7 +33,7 @@ Corrections and suggestions are welcome.
 * Average Length: 44:03
 
 ### CacaoCast
-* Description: After a change in focus, this podcast is now a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight. The reader's comprehension of this description is likely thanks to tanner's son [Guillaume le Conquérant](https://en.wikipedia.org/wiki/William_the_Conqueror).
+* Description: After a change in focus, this podcast is now a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight.
 * Website: http://cacaocast.com/
 * Feed: http://cacaocast.com/Feed
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
@@ -128,6 +128,14 @@ Corrections and suggestions are welcome.
 * Frequency: weekly
 * Average Length: 1:01:45
 
+### iOS Dev Break
+* Description: A consultant and [indie developer](https://itunes.apple.com/us/app/nineoneone-one-touch-emergency/id387750159?mt=8) provides "fifteen minutes of current events, tips, and advice for iOS Developers, including – but not limited to – discussions of Swift, iOS, watchOS, and tvOS!"
+* Website: http://iosdevbreak.com
+* Feed: http://iosdevbreak.libsyn.com/rss
+* Twitter: [@iOSDevBreak](https://twitter.com/iOSDevBreak)
+* Frequency: weekly
+* Average Length: 16:34
+
 ### iPhreaks
 * Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 * Website: https://devchat.tv/iphreaks
@@ -159,14 +167,6 @@ Corrections and suggestions are welcome.
 * Twitter: [@mobileandbeer](https://twitter.com/mobileandbeer)
 * Frequency: intermittent
 * Average Length: 53:48
-
-### Mobile Couch
-* Description: Two iOS developers discuss various iOS-development topics, sometimes with a guest.
-* Website: http://mobilecouch.co
-* Feed: http://mobilecouch.co/Feed
-* Twitter: [@_mobilecouch](https://twitter.com/_mobilecouch)
-* Frequency: biweekly
-* Average Length: 45:24
 
 ### More Than Just Code
 * Description: A rotating cast of iOS-developer hosts discuss news of interest to iOS developers.
@@ -314,6 +314,7 @@ Dearly Departed Podcasts
 * History of Rome
 * Hypercritical
 * Identical Cousins
+* Mobile Couch
 * Notification Center
 * NSBrief
 * The Record
