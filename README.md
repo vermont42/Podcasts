@@ -96,14 +96,6 @@ Corrections and suggestions are welcome.
 * Frequency: weeklyish
 * Average Length: 31:43
 
-### iOSBytes
-* Description: A quick rundown of interesting iOS development links.
-* Website: https://iosbytes.codeschool.com/
-* Feed: https://iosbytes.codeschool.com/feed.Feed
-* Twitter: [@iOSBytesPodcast](https://twitter.com/iOSBytesPodcast)
-* Frequency: weekly
-* Average Length: 5:06
-
 ### Immutable
 * Description: A short, weekly show about design and development, usually of the iOS variety, hosted by Sam Soffes & Bryn Jackson.
 * Website: https://spec.fm/podcasts/immutable
@@ -127,6 +119,14 @@ Corrections and suggestions are welcome.
 * Twitter: [@iOhYesPodcast](https://twitter.com/iOhYesPodcast)
 * Frequency: weekly
 * Average Length: 1:01:45
+
+### iOSBytes
+* Description: A quick rundown of interesting iOS development links.
+* Website: https://iosbytes.codeschool.com/
+* Feed: https://iosbytes.codeschool.com/feed.Feed
+* Twitter: [@iOSBytesPodcast](https://twitter.com/iOSBytesPodcast)
+* Frequency: weekly
+* Average Length: 5:06
 
 ### iOS Dev Break
 * Description: A consultant and [indie developer](https://itunes.apple.com/us/app/nineoneone-one-touch-emergency/id387750159?mt=8) provides "fifteen minutes of current events, tips, and advice for iOS Developers, including – but not limited to – discussions of Swift, iOS, watchOS, and tvOS!"
