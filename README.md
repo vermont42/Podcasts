@@ -325,12 +325,6 @@ Credits
 =======
 Thanks to all the podcasts for sharing such amazing content.
 
-Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Launch Therapy](https://medium.com/@LaunchKit), and [Michael Tsai](http://mjtsai.com) for helping to publicize this list.
+Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Launch Therapy](https://medium.com/@LaunchKit), [Michael Tsai](http://mjtsai.com), and [iDeveloper Podcast](http://blog.ideveloper.co) for helping to publicize this list.
 
 Thanks also to the list contributors.
-
-![iOS Dev Weekly](weekly.png "iOS Dev Weekly")
-
-![Indie iOS Focus Weekly](indie.png "Indie iOS Focus Weekly")
-
-![Launch Therapy](therapy.png "Launch Therapy")
