@@ -112,14 +112,6 @@ Corrections and suggestions are welcome.
 * Frequency: biweekly
 * Average Length: 2:20:20
 
-### iOhYes
-* Description: Three iOS developers discuss with a guest one iOS-development topic per episode.
-* Website: http://5by5.tv/iohyes
-* Feed: http://feeds.5by5.tv/iohyes
-* Twitter: [@iOhYesPodcast](https://twitter.com/iOhYesPodcast)
-* Frequency: weekly
-* Average Length: 1:01:45
-
 ### iOSBytes
 * Description: A quick rundown of interesting iOS development links.
 * Website: https://iosbytes.codeschool.com/
@@ -314,6 +306,7 @@ Dearly Departed Podcasts
 * History of Rome
 * Hypercritical
 * Identical Cousins
+* IOhYes
 * Mobile Couch
 * Notification Center
 * NSBrief
