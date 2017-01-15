@@ -104,6 +104,14 @@ Corrections and suggestions are welcome.
 * Frequency: weekly
 * Average Length: 17:03
 
+### Import Foundation
+* Description: A mid-level developer created this podcast as a means for aspiring and junior developers to get good information from him and more experienced devs on best practices, tips and tricks, and other important information to become successful.
+* Website: https://goo.gl/forms/OuENz8PGqgkpW8jT2
+* Feed: http://importfoundation.libsyn.com
+* Twitter: [@NicTheAwesome](https://twitter.com/NicTheAwesome)
+* Frequency: weekly
+* Average Length: 13:80
+
 ### Infinitum
 * Description: An iOS developer and a 4D ninja discuss, in Serbian, Apple and related technologies.
 * Website: http://www.infinitum.rs
