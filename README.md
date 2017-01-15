@@ -14,7 +14,7 @@ The following is a list of podcasts of interest to iOS developers and other habi
 
 Podcast frequencies are approximate. Average length is of the past three episodes.
 
-Corrections and suggestions are welcome.
+Corrections and suggestions, via pull request or [email](mailto:vermontcoder at gmail dot com), are welcome.
 
 ### Accidental Tech Podcast
 * Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
@@ -33,12 +33,20 @@ Corrections and suggestions are welcome.
 * Average Length: 44:03
 
 ### CacaoCast
-* Description: After a change in focus, this podcast is now a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight.
+* Description: After a change in focus, this podcast is now largely a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight.
 * Website: http://cacaocast.com/
 * Feed: http://cacaocast.com/Feed
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
 * Frequency: weekly
 * Average Length: 14:30
+
+### CocoaConf Podcast
+* Description: This podcast, an outgrowth of the touring CocoaConf conference, consists of edited interviews with iOS/Mac developers, discussions of books of interest to iOS/Mac developers, and heads-ups about upcoming conferences.
+* Website: http://cocoaconf.com/podcast
+* Feed: http://cocoaconf.libsyn.com/rss
+* Twitter: [@cocoaconfcast] [https://twitter.com/cocoaconfcast]
+* Frequency: intermittent
+* Average length: 44:02
 
 ### Coding Blocks
 * Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
@@ -153,7 +161,7 @@ Corrections and suggestions are welcome.
 * Average Length: 11:20
 
 ### Merge Conflict
-* Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers, discuss various development topics.
+* Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
 * Website: http://www.mergeconflict.fm
 * Feed: http://simplecast.com/podcasts/2117/Feed
 * Twitter: [@MergeConflictFM](https://twitter.com/MergeConflictFM)
