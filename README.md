@@ -121,7 +121,7 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Average Length: 13:80
 
 ### Infinitum
-* Description: An iOS developer and a 4D ninja discuss, in Serbian, Apple and related technologies.
+* Description: An iOS developer and a 4D ninja discuss, in [Serbian](http://home.uchicago.edu/~vfriedm/Articles/243Friedman.pdf), Apple and related technologies.
 * Website: http://www.infinitum.rs
 * Feed: http://simplecast.com/podcasts/320/rss
 * Twitter: [@infinitumcast](https://twitter.com/infinitumcast)
