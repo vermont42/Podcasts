@@ -128,14 +128,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: biweekly
 * Average Length: 2:20:20
 
-### iOSBytes
-* Description: A quick rundown of interesting iOS development links.
-* Website: https://iosbytes.codeschool.com/
-* Feed: https://iosbytes.codeschool.com/feed.Feed
-* Twitter: [@iOSBytesPodcast](https://twitter.com/iOSBytesPodcast)
-* Frequency: weekly
-* Average Length: 5:06
-
 ### iOS Dev Break
 * Description: A consultant and [indie developer](https://itunes.apple.com/us/app/nineoneone-one-touch-emergency/id387750159?mt=8) provides "fifteen minutes of current events, tips, and advice for iOS Developers, including – but not limited to – discussions of Swift, iOS, watchOS, and tvOS!"
 * Website: http://iosdevbreak.com
@@ -322,7 +314,8 @@ Dearly Departed Podcasts
 * History of Rome
 * Hypercritical
 * Identical Cousins
-* IOhYes
+* iOhYes
+* iOSBytes
 * Mobile Couch
 * Notification Center
 * NSBrief
