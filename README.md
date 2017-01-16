@@ -177,7 +177,7 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Average Length: 1:31:26
 
 ### Playgrounds: Swift and Apple Developers Conference
-* Description: Playgrounds is Australia's conference dedicated to Swift and Apple-platform developers. Episodes consist of interviews with presenters at the conference.
+* Description: Playgrounds is Australia's conference dedicated to Swift and Apple-platform developers. Episodes consist of interviews with conference presenters.
 * Website: http://www.playgroundscon.com/podcast
 * Feed: https://playgroundscon.squarespace.com/podcast?format=rss
 * Twitter: [@playgroundscon](https://twitter.com/playgroundscon)
