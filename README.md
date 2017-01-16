@@ -176,6 +176,14 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 1:31:26
 
+### Playgrounds: Swift and Apple Developers Conference
+* Description: Playgrounds is Australia's conference dedicated to Swift and Apple-platform developers. Episodes consist of interviews with presenters at the conference.
+* Website: http://www.playgroundscon.com/podcast
+* Feed: https://playgroundscon.squarespace.com/podcast?format=rss
+* Twitter: [@playgroundscon](https://twitter.com/playgroundscon)
+* Frequency: weekly
+* Average Length: 38:16
+
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
 * Website: http://www.programmingthrowdown.com
