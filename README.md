@@ -144,14 +144,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 55:19
 
-### Janie Rants
-* Description: The host, an iOS developer, explores topics in coding that she has encountered in her work that she finds interesting and that she wants to share with listeners.
-* Website: http://janierants.com
-* Feed: http://janierants.com/?feed=podcast
-* Twitter: [@RedQueenCoder](https://twitter.com/RedQueenCoder)
-* Frequency: weekly
-* Average Length: 11:20
-
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
 * Website: http://www.mergeconflict.fm
@@ -324,6 +316,7 @@ Dearly Departed Podcasts
 * Identical Cousins
 * iOhYes
 * iOSBytes
+* Janie Rants
 * Mobile Couch
 * Notification Center
 * NSBrief
@@ -335,6 +328,6 @@ Credits
 =======
 Thanks to all the podcasts for sharing such amazing content.
 
-Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Launch Therapy](https://medium.com/@LaunchKit), [Michael Tsai](http://mjtsai.com), and [iDeveloper Podcast](http://blog.ideveloper.co) for helping to publicize this list.
+Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Import Foundation](http://importfoundation.libsyn.com), [Launch Therapy](https://medium.com/@LaunchKit), [Michael Tsai](http://mjtsai.com), and [iDeveloper Podcast](http://blog.ideveloper.co) for helping to publicize this list.
 
 Thanks also to the list contributors.
