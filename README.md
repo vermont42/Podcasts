@@ -264,6 +264,14 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 14:40
 
+### Swift Unwrapped
+* Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and comment on [Swift Weekly Brief](https://swiftweekly.github.io), a community-driven weekly newsletter about what's happening in the Swift open-source projects.
+* Website: https://spec.fm/podcasts/swift-unwrapped
+* Feed: https://simplecast.com/podcasts/2693/rss
+* Twitter: [@swiftlybrief](https://twitter.com/swiftlybrief)
+* Frequency: biweekly
+* Average Length: 37:37
+
 ### The Talk Show with John Gruber
 * Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
 * Website: http://daringfireball.net/thetalkshow/
@@ -316,6 +324,7 @@ Dearly Departed Podcasts
 * Identical Cousins
 * iOhYes
 * iOSBytes
+* iOS Dev Diary
 * Janie Rants
 * Mobile Couch
 * Notification Center
