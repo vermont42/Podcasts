@@ -24,14 +24,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 1:39:15
 
-### Build Phase
-* Description: Three iOS developers discuss knotty programming [problems](https://github.com/thoughtbot/Argo) they are facing. This is one of the most technical iOS podcasts.
-* Website: http://buildphase.fm
-* Feed: http://simplecast.com/podcasts/272/Feed
-* Twitter: [@buildphase](https://twitter.com/buildphase)
-* Frequency: weekly
-* Average Length: 44:03
-
 ### CacaoCast
 * Description: After a change in focus, this podcast is now largely a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight.
 * Website: http://cacaocast.com/
@@ -56,14 +48,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: monthly
 * Average Length: 1:53:50
 
-### Concepts in Code
-* Description: An iOS and a Java developer discuss development of a side project and other software-development subjects. The catchy intro song brings to mind the [Indigo Girls](https://www.youtube.com/watch?v=HUgwM1Ky228), a folk band founded in 1985.
-* Website: http://conceptsincode.com/
-* Feed: http://conceptsincode.com/Feed
-* Twitter: [@bjmillerltd](https://twitter.com/bjmillerltd), [@HankTurowski](https://twitter.com/HankTurowski)
-* Frequency: monthly
-* Average Length: 39:49
-
 ### Consult
 * An interview podcast about iOS and Mac software development specifically concerning the world of consultants – those who build apps for others. Content includes a mix of topical episodes and interviews with consultants and other developers.
 * Website: http://consultpodcast.com/
@@ -80,21 +64,21 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 47:33
 
-### Debug
-* Description: A tech journalist and an iOS developer interview various guests about subjects of interest to residents of the Apple ecosystem.
-* Website: http://www.imore.com/debug
-* Feed: http://feeds.feedburner.com/debugshow
-* Twitter: [@debugcast](https://twitter.com/debugcast)
-* Frequency: intermittent
-* Average Length: 1:29:15
-
 ### Fatal Error
-* Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices."
+* Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices." Even-numbered episodes are available to Patreon patrons.
 * Website: http://fatalerror.fm
 * Feed: http://fatalerror.fm/episodes?format=Feed
 * Twitter: [@fatalerrorfm](https://twitter.com/fatalerrorfm)
 * Frequency: biweekly
 * Average Length: 27:36
+
+### Hallo Swift
+* Description: Two German iOS developers discuss iOS development.
+* Website: http://hallo-swift.de
+* Feed: http://feeds.soundcloud.com/users/soundcloud:users:300507271/sounds.rss
+* Twitter: [@hallo_swift](https://twitter.com/hallo_swift)
+* Frequency: unknown
+* Average Length: 23:42
 
 ### iDeveloper Podcast
 * Description: A Mac and iOS developer/[guru](https://youtu.be/9VojuJpUuE8?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) discuss Apple-software development and other topics.
@@ -103,14 +87,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Twitter: [@macdevnet](https://twitter.com/macdevnet)
 * Frequency: weeklyish
 * Average Length: 31:43
-
-### Immutable
-* Description: A short, weekly show about design and development, usually of the iOS variety, hosted by Sam Soffes & Bryn Jackson.
-* Website: https://spec.fm/podcasts/immutable
-* Feed: https://simplecast.com/podcasts/1332/Feed
-* Twitter: [@ImmutableFM](https://twitter.com/ImmutableFM)
-* Frequency: weekly
-* Average Length: 17:03
 
 ### Import Foundation
 * Description: A mid-level developer created this podcast as a means for aspiring and junior developers to get good information from him and more experienced devs on best practices, tips and tricks, and other important information to become successful.
@@ -152,14 +128,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 33:33
 
-### Mobile & Beer
-* Description: In each episode, three Israeli, Hebrew-speaking developers drink a different beer, discuss news, and share personal stories about mobile development (especially Apple & iOS).
-* Website: http://www.mobileandbeer.com/
-* Feed: http://www.mobileandbeer.com/podcast.xml
-* Twitter: [@mobileandbeer](https://twitter.com/mobileandbeer)
-* Frequency: intermittent
-* Average Length: 53:48
-
 ### More Than Just Code
 * Description: A rotating cast of iOS-developer hosts discuss news of interest to iOS developers.
 * Website: http://mtjc.fm
@@ -189,7 +157,7 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Website: https://www.raywenderlich.com/rwpodcast
 * Feed: http://www.raywenderlich.com/category/podcast/feed
 * Twitter: [@rwenderlich](https://twitter.com/rwenderlich)
-* Frequency: biweekly
+* Frequency: biweekly - on hiatus
 * Average Length: 40:50
 
 ### Release Notes
@@ -215,14 +183,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Twitter: [@sharedinst](https://twitter.com/sharedinst)
 * Frequency: weekly
 * Average Length: 36:32
-
-### Simple Programmer Podcast
-* Description: A former developer and current [writer](https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397/)/life coach answers questions from software developers.
-* Website: https://simpleprogrammer.com/podcasts/
-* Feed: http://simpleprogrammer.libsyn.com/Feed
-* Twitter: [@jsonmez](https://twitter.com/jsonmez)
-* Frequency: daily
-* Average Length: 5:51
 
 ### Software Engineering Daily
 * Description: A former developer interviews one guest per episode about topics of interest to software developers.
@@ -256,13 +216,13 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 63:42
 
-### Swift Playhouse
-* Description: Two Swift learners discuss Swift-learning resources and the learning process.
-* Website: http://www.swiftplayhouse.com
-* Feed: http://swiftplayhouse.libsyn.com/Feed
-* Twitter: [@swiftplayhouse](https://twitter.com/swiftplayhouse)
-* Frequency: weekly
-* Average Length: 14:40
+### Swift Teacher
+* Description: An international discussion of teachers who use the Swift language to teach programming and basic computer-science topics to students ranging from primary school to university.
+* Website: https://www.ifoutty.com
+* Feed: http://cast.rocks/hosting/7212/feeds/72WBK.xml
+* Twitter: [@bfoutty](https://twitter.com/bfoutty)
+* Frequency: biweekly
+* Average Length: 23:13
 
 ### Swift Unwrapped
 * Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and comment on [Swift Weekly Brief](https://swiftweekly.github.io), a community-driven weekly newsletter about what's happening in the Swift open-source projects.
@@ -280,14 +240,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 1:56:40
 
-### Tentative
-* Description: Two digital-product designers discuss digital-product design, often addressing subjects of interest to iOS developers.
-* Website: http://tentative.fm
-* Feed: http://simplecast.com/podcasts/1088/Feed
-* Twitter: [@tentativefm](https://twitter.com/tentativefm)
-* Frequency: weekly
-* Average Length: 31:01
-
 ### Under the Radar
 * Description: Two indie iOS developers discuss the business, nuts, and bolts of indie iOS-app development.
 * Website: https://www.relay.fm/radar/
@@ -295,14 +247,6 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Twitter: [@_DavidSmith](http://twitter.com/_DavidSmith)
 * Frequency: weekly
 * Average Length: 29:24
-
-### Verbose Podcast
-* Description: Three 🇮🇪 iOS developers [discuss](http://www.ireland-fun-facts.com/craic.html) iOS development, the business of app selling, and news from the Apple ecosystem.
-* Website: http://verbosepodca.st
-* Feed: http://verbose-ireland.s3.amazonaws.com/the-verbose-podcast.xml
-* Twitter: [@oisin](http://twitter.com/oisin)
-* Frequency: gach mí
-* Average Length: 1:31:42
 
 ### Worst Case Scenario
 * Description: Three iOS developers from Limerick, Ireland discuss app development, tech, education[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and life.
@@ -316,7 +260,10 @@ Dearly Departed Podcasts
 ========================
 * CocoaRadio
 * Bitsplitting
+* Build Phase
 * Build and Analyze
+* Concepts in Code
+* Debug
 * Developing Perspective
 * Edge Cases
 * History of Rome
@@ -326,12 +273,15 @@ Dearly Departed Podcasts
 * iOSBytes
 * iOS Dev Diary
 * Janie Rants
+* Mobile & Beer
 * Mobile Couch
 * Notification Center
 * NSBrief
 * The Record
 * Springboard
+* Swift Playhouse
 * Topical
+* Verbose Podcast
 
 Credits
 =======
