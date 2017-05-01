@@ -168,6 +168,14 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: weekly
 * Average Length: 37:46
 
+### The Run Loop
+* Description: A weekly discussion show with top iOS and Mac developers and designers about the topics that interest them.
+* Website: http://www.therunloop.com
+* Feed: http://www.therunloop.com/rss
+* Twitter: [@therunloop](https://twitter.com/therunloop)
+* Frequency: weekly
+* Average Length: 54:48
+
 ### Runtime
 * Description: Two iOS developers discuss the nuts and bolts of iOS and, in particular, Swift development.
 * Website: https://spec.fm/podcasts/runtime
