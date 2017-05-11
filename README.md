@@ -104,6 +104,14 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Frequency: biweekly
 * Average Length: 2:20:20
 
+### Inside iOS Dev
+* Description: The hosts, [Alex](https://twitter.com/alex_v_bush) and [Andrew](https://twitter.com/RohnAndrew), talk about their experience working on a legacy codebase that supports thousands of monthly users. They discuss everything from implementing specific features, to creating flexible designs, to utilizing refactoring techniques, and more.
+* Website: http://insideiosdev.com
+* Feed: https://rss.simplecast.com/podcasts/2720/rss
+* Twitter: [@insideiosdev](https://twitter.com/insideiosdev)
+* Frequency: weekly
+* Average Length: 21:15
+
 ### iOS Dev Break
 * Description: A consultant and [indie developer](https://itunes.apple.com/us/app/nineoneone-one-touch-emergency/id387750159?mt=8) provides "fifteen minutes of current events, tips, and advice for iOS Developers, including – but not limited to – discussions of Swift, iOS, watchOS, and tvOS!"
 * Website: http://iosdevbreak.com
