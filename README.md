@@ -65,7 +65,7 @@ Corrections and suggestions, via pull request or [email](mailto:vermontcoder at 
 * Average Length: 47:33
 
 ### Fatal Error
-* Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices." Even-numbered episodes are available to Patreon patrons.
+* Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices." Even-numbered episodes are available to Patreon patrons. The free feed includes previews of the paid episodes.
 * Website: http://fatalerror.fm
 * Feed: http://fatalerror.fm/episodes?format=Feed
 * Twitter: [@fatalerrorfm](https://twitter.com/fatalerrorfm)
