@@ -143,6 +143,15 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 1:31:26
 
+### NSBrief
+* Description: A podcast for Cocoa developers talking about interesting developer-y stuff. This podcast is open-source in that it has a GitHub repo through which listeners can contribute back. The host, Saul Mora, has a unique perspective for an iOS-development-podcast host in that he lives and works in China. 
+* Website: http://nsbrief.com
+* Repo: https://github.com/nsbrief
+* Feed: http://nsbrief.com/feeds/rss.xml
+* Twitter: [@nsbrief](https://twitter.com/nsbrief)
+* Frequency: TBD
+* Average Length: 39:35
+
 ### Playgrounds: Swift and Apple Developers Conference
 * Description: Playgrounds is Australia's conference dedicated to Swift and Apple-platform developers. Episodes consist of interviews with conference presenters.
 * Website: http://www.playgroundscon.com/podcast
@@ -291,7 +300,6 @@ Dearly Departed Podcasts
 * Mobile & Beer
 * Mobile Couch
 * Notification Center
-* NSBrief
 * The Record
 * Springboard
 * Swift Playhouse
