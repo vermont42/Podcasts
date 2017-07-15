@@ -23,6 +23,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 1:39:15
 
+### Build Phase
+* Description: A "technical podcast discussing iOS development and design", as well as the iOS-consulting milieu in Europe.
+* Website: http://buildphase.fm/
+* Feed: https://rss.simplecast.com/podcasts/272/rss
+* Twitter: [@buildphase](https://twitter.com/buildphase)
+* Frequency: intermittent
+* Average Length: 40:05
+
 ### CacaoCast
 * Description: After a change in focus, this podcast is now largely a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight.
 * Website: http://cacaocast.com/
@@ -62,6 +70,22 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@coreint](https://twitter.com/coreint)
 * Frequency: weekly
 * Average Length: 47:33
+
+### Einfach iOS
+* Loosely translated description: A German-language podcast in which the iOS-developer hosts "talk about topics that are pertinent to iOS".
+* Website: https://einfachios.de
+* Feed: https://feeds.soundcloud.com/users/soundcloud:users:317689040/sounds.rss
+* Twitter: [@iosfranky](https://twitter.com/iosfranky) [@appentwicklervz](https://twitter.com/appentwicklervz)
+* Frequency: biweekly
+* Average Length: 36:58
+
+### El Podcast de Aprende iOS
+* Loosely translated description: A Spanish-language podcast about "technologies, code, best practices, frameworks, and ... being an iOS developer in 2017."
+* Website: https://aprendeios.com/escucha/
+* Feed: https://aprendeios.com/podcast
+* Twitter: [@_aprendeios](https://twitter.com/_aprendeios)
+* Frecuencia: weekly
+* Average Length: 23:20
 
 ### Fatal Error
 * Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices." Even-numbered episodes are available to Patreon patrons. The free feed includes previews of the paid episodes.
@@ -144,7 +168,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 1:31:26
 
 ### NSBrief
-* Description: A podcast for Cocoa developers talking about interesting developer-y stuff. This podcast is open-source in that it has a GitHub repo through which listeners can contribute back. The host, Saul Mora, has a unique perspective for an iOS-development-podcast host in that he lives and works in China. 
+* Description: A podcast for Cocoa developers talking about interesting developer-y stuff. This podcast is open-source in that it has a GitHub repo through which listeners can contribute back. The host, Saul Mora, has a unique perspective for an iOS-development-podcast host in that he lives and works in China.
 * Website: http://nsbrief.com
 * Repo: https://github.com/nsbrief
 * Feed: http://nsbrief.com/feeds/rss.xml
@@ -284,7 +308,6 @@ Dearly Departed Podcasts
 ========================
 * CocoaRadio
 * Bitsplitting
-* Build Phase
 * Build and Analyze
 * Concepts in Code
 * Debug
