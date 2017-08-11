@@ -95,6 +95,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: biweekly
 * Average Length: 27:36
 
+### Fireside Swift
+* Description: "Two buddies talk[] about a single programming concept each episode," for example optionals.
+* Website: http://cast.rocks/hosting/7479/feeds/IZO76.html
+* Feed: http://cast.rocks/hosting/7479/feeds/IZO76.xml
+* Twitter: [@swberard](https://twitter.com/swberard) [@zfalgout1](https://twitter.com/zfalgout1)
+* Frequency: TBD
+* Average Length: 45:16
+
 ### Hallo Swift
 * Description: Two German iOS developers discuss iOS development.
 * Website: http://hallo-swift.de
@@ -216,14 +224,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 54:48
 
-### Runtime
-* Description: Two iOS developers discuss the nuts and bolts of iOS and, in particular, Swift development.
-* Website: https://spec.fm/podcasts/runtime
-* Feed: https://simplecast.com/podcasts/2070/Feed
-* Twitter: [@runtimefm](https://twitter.com/runtimefm)
-* Frequency: weekly
-* Average Length: 23:42
-
 ### SharedInstance
 * Description: Three iOS developers discuss various iOS-development topics.
 * Website: http://sharedinstance.com
@@ -324,6 +324,7 @@ Dearly Departed Podcasts
 * Mobile Couch
 * Notification Center
 * The Record
+* Runtime
 * Springboard
 * Swift Playhouse
 * Topical
