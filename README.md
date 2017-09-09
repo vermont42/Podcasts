@@ -159,6 +159,13 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 55:19
 
+### The Learn Swift Podcast
+* Description: Beginners to the Swift language share their backgrounds, experiences, lessons learned, and ambitions.
+* Feed: http://cast.rocks/hosting/9023/feeds/94T7P.xml
+* Twitter: [@steven_0351](https://twitter.com/steven_0351)
+* Frequency: weekly
+* Average Length: 46:02
+
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
 * Website: http://www.mergeconflict.fm
@@ -255,6 +262,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@supertopsquid](https://twitter.com/supertopsquid)
 * Frequency: weekly
 * Average Length: 43:42
+
+### Swift by Sundell
+* Description: An iOS developer and a guest answer questions from listeners about Swift, iOS development, and software development generally.
+* Website: https://www.swiftbysundell.com/podcast/
+* Feed: https://john-sundell.squarespace.com/podcast?format=rss
+* Twitter: [@swiftbysundell](https://twitter.com/swiftbysundell)
+* Frequency: intermittent but more than biweekly
+* Average Length: 47:59
 
 ### SwiftCoders
 * Description: An iOS developer interviews a different iOS or Mac developer each week about developing for Apple platforms. The [host](https://twitter.com/garricn) uses an interesting [app](https://tryca.st) to record, edit, publish, and host the podcast.
