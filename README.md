@@ -103,6 +103,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: TBD
 * Average Length: 45:16
 
+### Friday Q&A Live or: mikeash rambles about stuff
+* Description: Mike Ash "brings something vaguely resembling his Friday Q&A blog articles to the world of podcasting ... discuss[ing] weird technical stuff in the world of Mac and iOS programming."
+* Website: https://mikeash.com
+* Feed: https://mikeash.com/fqa-live-feed.py
+* Twitter: [@mikeash](https://twitter.com/mikeash)
+* Frequency: irregular
+* Average Length: 19:50
+
 ### Hallo Swift
 * Description: Two German iOS developers discuss iOS development.
 * Website: http://hallo-swift.de
@@ -116,7 +124,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://blog.ideveloper.co
 * Feed: http://feeds.ideveloper.co/ideveloperpodcast.xml
 * Twitter: [@macdevnet](https://twitter.com/macdevnet)
-* Frequency: weeklyish
+* Frequency: unknown
 * Average Length: 31:43
 
 ### Import Foundation
@@ -212,7 +220,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: https://www.raywenderlich.com/rwpodcast
 * Feed: http://www.raywenderlich.com/category/podcast/feed
 * Twitter: [@rwenderlich](https://twitter.com/rwenderlich)
-* Frequency: biweekly - on hiatus
+* Frequency: biweekly
 * Average Length: 40:50
 
 ### Release Notes
@@ -222,14 +230,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@release_notes](https://twitter.com/release_notes)
 * Frequency: weekly
 * Average Length: 37:46
-
-### The Run Loop
-* Description: A weekly discussion show with top iOS and Mac developers and designers about the topics that interest them.
-* Website: http://www.therunloop.com
-* Feed: http://www.therunloop.com/rss
-* Twitter: [@therunloop](https://twitter.com/therunloop)
-* Frequency: weekly
-* Average Length: 54:48
 
 ### SharedInstance
 * Description: Three iOS developers discuss various iOS-development topics.
@@ -339,6 +339,7 @@ Dearly Departed Podcasts
 * Mobile Couch
 * Notification Center
 * The Record
+* The Run Loop
 * Runtime
 * Springboard
 * Swift Playhouse
