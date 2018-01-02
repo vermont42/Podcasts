@@ -32,12 +32,12 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 40:05
 
 ### CacaoCast
-* Description: After a change in focus, this podcast is now largely a "petit expérience de podcasting et de développement" about host Philippe Casgrain's continuing work on the iOS app Daylight.
+* Description: Two Quebecois software developers discuss their work and news from the Apple ecosystem.
 * Website: http://cacaocast.com/
 * Feed: http://cacaocast.com/Feed
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
-* Frequency: weekly
-* Average Length: 14:30
+* Frequency: intermittent
+* Average Length: 1:02:43
 
 ### CocoaConf Podcast
 * Description: This podcast, an outgrowth of the touring CocoaConf conference, consists of edited interviews with iOS/Mac developers, discussions of books of interest to iOS/Mac developers, and heads-ups about upcoming conferences.
@@ -64,12 +64,12 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 1:07:08
 
 ### Core Intuition
-* Description: An iOS and a macOS developer discuss the business of indie app development and, less frequently, more-technical subjects.
+* Description: A social-network impresario and a macOS developer discuss business and, less frequently, more-technical subjects.
 * Website: http://www.coreint.org/
 * Feed: http://www.coreint.org/podcast.xml
 * Twitter: [@coreint](https://twitter.com/coreint)
 * Frequency: weekly
-* Average Length: 47:33
+* Average Length: 1:03:47
 
 ### Einfach iOS
 * Loosely translated description: A German-language podcast in which the iOS-developer hosts "talk about topics that are pertinent to iOS".
@@ -78,14 +78,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@iosfranky](https://twitter.com/iosfranky) [@appentwicklervz](https://twitter.com/appentwicklervz)
 * Frequency: biweekly
 * Average Length: 36:58
-
-### El Podcast de Aprende iOS
-* Loosely translated description: A Spanish-language podcast about "technologies, code, best practices, frameworks, and ... being an iOS developer in 2017."
-* Website: https://aprendeios.com/escucha/
-* Feed: https://aprendeios.com/podcast
-* Twitter: [@_aprendeios](https://twitter.com/_aprendeios)
-* Frecuencia: weekly
-* Average Length: 23:20
 
 ### Fatal Error
 * Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices." Even-numbered episodes are available to Patreon patrons. The free feed includes previews of the paid episodes.
@@ -100,7 +92,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://cast.rocks/hosting/7479/feeds/IZO76.html
 * Feed: http://cast.rocks/hosting/7479/feeds/IZO76.xml
 * Twitter: [@swberard](https://twitter.com/swberard) [@zfalgout1](https://twitter.com/zfalgout1)
-* Frequency: TBD
+* Frequency: intermittent
 * Average Length: 45:16
 
 ### Friday Q&A Live or: mikeash rambles about stuff
@@ -116,7 +108,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://hallo-swift.de
 * Feed: http://feeds.soundcloud.com/users/soundcloud:users:300507271/sounds.rss
 * Twitter: [@hallo_swift](https://twitter.com/hallo_swift)
-* Frequency: unknown
+* Frequency: intermittent
 * Average Length: 23:42
 
 ### iDeveloper Podcast
@@ -124,16 +116,8 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://blog.ideveloper.co
 * Feed: http://feeds.ideveloper.co/ideveloperpodcast.xml
 * Twitter: [@macdevnet](https://twitter.com/macdevnet)
-* Frequency: unknown
+* Frequency: intermittent
 * Average Length: 31:43
-
-### Import Foundation
-* Description: A mid-level developer created this podcast as a means for aspiring and junior developers to get good information from him and more experienced devs on best practices, tips and tricks, and other important information to become successful.
-* Website: https://goo.gl/forms/OuENz8PGqgkpW8jT2
-* Feed: http://importfoundation.libsyn.com
-* Twitter: [@NicTheAwesome](https://twitter.com/NicTheAwesome)
-* Frequency: weekly
-* Average Length: 13:80
 
 ### Infinitum
 * Description: An iOS developer and a 4D ninja discuss, in [Serbian](http://home.uchicago.edu/~vfriedm/Articles/243Friedman.pdf), Apple and related technologies.
@@ -148,7 +132,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://insideiosdev.com
 * Feed: https://rss.simplecast.com/podcasts/2720/rss
 * Twitter: [@insideiosdev](https://twitter.com/insideiosdev)
-* Frequency: weekly
+* Frequency: intermittent
 * Average Length: 21:15
 
 ### iOS Dev Break
@@ -196,8 +180,16 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Repo: https://github.com/nsbrief
 * Feed: http://nsbrief.com/feeds/rss.xml
 * Twitter: [@nsbrief](https://twitter.com/nsbrief)
-* Frequency: TBD
+* Frequency: rare
 * Average Length: 39:35
+
+### The Omni Show
+* Description: Brent Simmons elicits the "stories behind Omni’s award-winning productivity apps for Mac and iOS". Simmons's questions are thoughtful and non-leading.
+* Website: https://theomnishow.omnigroup.com
+* Feed: https://theomnishow.omnigroup.com/rss/
+* Twitter: [@brentsimmons](https://twitter.com/brentsimmons)
+* Frequency: intermittent
+* Average Length: 27:13
 
 ### Playgrounds: Swift and Apple Developers Conference
 * Description: Playgrounds is Australia's conference dedicated to Swift and Apple-platform developers. Episodes consist of interviews with conference presenters.
@@ -224,7 +216,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 40:50
 
 ### Release Notes
-* Description: An indie iOS developer and an indie iOS developer/designer/[bassist](http://airplanemo.de)/impresario discuss the business of indie-app development.
+* Description: An indie developer/entrepreneur and an iOS developer/designer/[bassist](http://airplanemo.de)/impresario discuss the business of indie product development.
 * Website: https://releasenotes.tv
 * Feed: https://releasenotes.tv/feed/podcast/
 * Twitter: [@release_notes](https://twitter.com/release_notes)
@@ -236,7 +228,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://sharedinstance.com
 * Feed: http://simplecast.com/podcasts/1008/Feed
 * Twitter: [@sharedinst](https://twitter.com/sharedinst)
-* Frequency: weekly
+* Frequency: intermittent
 * Average Length: 36:32
 
 ### Software Engineering Daily
@@ -260,7 +252,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://supertop.co
 * Feed: http://cast.rocks/hosting/2041/feeds/CQMQA.xml
 * Twitter: [@supertopsquid](https://twitter.com/supertopsquid)
-* Frequency: weekly
+* Frequency: intermittent
 * Average Length: 43:42
 
 ### Swift by Sundell
@@ -268,7 +260,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: https://www.swiftbysundell.com/podcast/
 * Feed: https://john-sundell.squarespace.com/podcast?format=rss
 * Twitter: [@swiftbysundell](https://twitter.com/swiftbysundell)
-* Frequency: intermittent but more than biweekly
+* Frequency: intermittent but regular
 * Average Length: 47:59
 
 ### SwiftCoders
@@ -288,7 +280,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 23:13
 
 ### Swift Unwrapped
-* Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and comment on [Swift Weekly Brief](https://swiftweekly.github.io), a community-driven weekly newsletter about what's happening in the Swift open-source projects.
+* Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and the evolution thereof.
 * Website: https://spec.fm/podcasts/swift-unwrapped
 * Feed: https://simplecast.com/podcasts/2693/rss
 * Twitter: [@swiftlybrief](https://twitter.com/swiftlybrief)
@@ -300,7 +292,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Website: http://daringfireball.net/thetalkshow/
 * Feed: http://daringfireball.net/thetalkshow/Feed
 * Twitter: [@thetalkshow](https://twitter.com/thetalkshow)
-* Frequency: weekly
+* Frequency: intermittent but at least three times a month
 * Average Length: 1:56:40
 
 ### Under the Radar
@@ -331,6 +323,7 @@ Dearly Departed Podcasts
 * History of Rome
 * Hypercritical
 * Identical Cousins
+* Import Foundation
 * iOhYes
 * iOSBytes
 * iOS Dev Diary
@@ -338,6 +331,7 @@ Dearly Departed Podcasts
 * Mobile & Beer
 * Mobile Couch
 * Notification Center
+* El Podcast de Aprende iOS
 * The Record
 * The Run Loop
 * Runtime
