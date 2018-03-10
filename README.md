@@ -271,6 +271,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 63:42
 
+### SwiftCraft Podcast
+* Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
+* Website: https://emanleet.com
+* Feed: https://emanleet.com/feed/podcast/
+* Twitter: [@emanleet](https://twitter.com/emanleet)
+* Frequency: monthly
+* Average Length: 50:02
+
 ### Swift Teacher
 * Description: An international discussion of teachers who use the Swift language to teach programming and basic computer-science topics to students ranging from primary school to university.
 * Website: https://www.ifoutty.com
