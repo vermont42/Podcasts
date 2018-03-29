@@ -247,6 +247,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: biweekly to quadraweekly
 * Average Length: 52:22
 
+### Stacktrace
+* Description: A bi-weekly podcast by Guilherme Rambo and John Sundell about Apple news & rumors from a developer's perspective.
+* Website: https://stacktracepodcast.fm
+* Feed: https://stacktracepodcast.fm/?format=rss
+* Twitter: [@stacktracepod](https://twitter.com/stacktracepod)
+* Frequency: biweekly
+* Average Length: 60:07
+
 ### Supertop Podcast
 * Description: Two Irish developers of an iOS app, drawing upon Ireland's tradition of amazing [craftsmanship](https://www.tcd.ie/Library/manuscripts/book-of-kells.php), discuss app development and sometimes interview [guests](http://inessential.com).
 * Website: http://supertop.co
