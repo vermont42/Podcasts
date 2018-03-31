@@ -16,7 +16,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 [![cat](https://img.shields.io/badge/cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
 
 ### Accidental Tech Podcast
-* Description: A Perl developer and two iOS developers discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
+* Description: A Perl/JavaScript developer, a Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * Website: http://atp.fm/
 * Feed: http://atp.fm/episodes?format=Feed
 * Twitter: [@atpfm](https://twitter.com/atpfm)
