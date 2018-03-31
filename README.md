@@ -56,7 +56,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 1:53:50
 
 ### Consult
-* An interview podcast about iOS and Mac software development specifically concerning the world of consultants – those who build apps for others. Content includes a mix of topical episodes and interviews with consultants and other developers.
+* Description: An interview podcast about iOS and Mac software development specifically concerning the world of consultants – those who build apps for others. Content includes a mix of topical episodes and interviews with consultants and other developers.
 * Website: http://consultpodcast.com/
 * Feed: http://consultpodcast.com/Feed
 * Twitter: [@davekopec](https://twitter.com/davekopec)
@@ -94,14 +94,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@swberard](https://twitter.com/swberard) [@zfalgout1](https://twitter.com/zfalgout1)
 * Frequency: intermittent
 * Average Length: 45:16
-
-### Friday Q&A Live or: mikeash rambles about stuff
-* Description: Mike Ash "brings something vaguely resembling his Friday Q&A blog articles to the world of podcasting ... discuss[ing] weird technical stuff in the world of Mac and iOS programming."
-* Website: https://mikeash.com
-* Feed: https://mikeash.com/fqa-live-feed.py
-* Twitter: [@mikeash](https://twitter.com/mikeash)
-* Frequency: irregular
-* Average Length: 19:50
 
 ### Hallo Swift
 * Description: Two German iOS developers discuss iOS development.
@@ -173,15 +165,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@mtjc_podcast](https://twitter.com/mtjc_podcast)
 * Frequency: weekly
 * Average Length: 1:31:26
-
-### NSBrief
-* Description: A podcast for Cocoa developers talking about interesting developer-y stuff. This podcast is open-source in that it has a GitHub repo through which listeners can contribute back. The host, Saul Mora, has a unique perspective for an iOS-development-podcast host in that he lives and works in China.
-* Website: http://nsbrief.com
-* Repo: https://github.com/nsbrief
-* Feed: http://nsbrief.com/feeds/rss.xml
-* Twitter: [@nsbrief](https://twitter.com/nsbrief)
-* Frequency: rare
-* Average Length: 39:35
 
 ### The Omni Show
 * Description: Brent Simmons elicits the "stories behind Omni’s award-winning productivity apps for Mac and iOS". Simmons's questions are thoughtful and non-leading.
@@ -271,14 +254,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
-### SwiftCoders
-* Description: An iOS developer interviews a different iOS or Mac developer each week about developing for Apple platforms. The [host](https://twitter.com/garricn) uses an interesting [app](https://tryca.st) to record, edit, publish, and host the podcast.
-* Website: http://swiftcoders.podbean.com
-* Feed: http://swiftcoders.podbean.com/feed/
-* Twitter: [@garricn](https://twitter.com/garricn)
-* Frequency: weekly
-* Average Length: 63:42
-
 ### SwiftCraft Podcast
 * Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
 * Website: https://emanleet.com
@@ -336,6 +311,7 @@ Dearly Departed Podcasts
 * Debug
 * Developing Perspective
 * Edge Cases
+* Friday Q&A
 * History of Rome
 * Hypercritical
 * Identical Cousins
@@ -347,12 +323,14 @@ Dearly Departed Podcasts
 * Mobile & Beer
 * Mobile Couch
 * Notification Center
+* NSBrief
 * El Podcast de Aprende iOS
 * The Record
 * The Run Loop
 * Runtime
 * Springboard
 * Swift Playhouse
+* SwiftCoders
 * Topical
 * Verbose Podcast
 
