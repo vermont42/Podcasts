@@ -43,7 +43,7 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Description: This podcast, an outgrowth of the touring CocoaConf conference, consists of edited interviews with iOS/Mac developers, discussions of books of interest to iOS/Mac developers, and heads-ups about upcoming conferences.
 * Website: http://cocoaconf.com/podcast
 * Feed: http://cocoaconf.libsyn.com/rss
-* Twitter: [@cocoaconfcast] [https://twitter.com/cocoaconfcast]
+* Twitter: [@cocoaconfcast](https://twitter.com/cocoaconfcast)
 * Frequency: intermittent
 * Average length: 44:02
 
