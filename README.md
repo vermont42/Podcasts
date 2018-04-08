@@ -294,6 +294,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 29:24
 
+### Waiting for Review
+* Description: Two Daves discuss their journeys in the world of independent iOS development, from side-gigging to full time.
+* Website: https://waitingforreview.com
+* Feed: https://waitingforreview.com/feed/podcast/
+* Twitter: [@wfrpodcast](https://twitter.com/wfrpodcast)
+* Frequency: weekly
+* Average Length: 35:55
+
 ### Worst Case Scenario
 * Description: Three iOS developers from Limerick, Ireland discuss app development, tech, education[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and life.
 * Website: http://worstcasescenario.ie
