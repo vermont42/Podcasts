@@ -136,10 +136,10 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Average Length: 16:34
 
 ### iPhreaks
-* Description: A Ruby developer and two iOS developers discuss with a guest one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
+* Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 * Website: https://devchat.tv/iphreaks
 * Feed: http://feeds.feedwrench.com/iPhreaks.Feed
-* Twitter: [@devchattv](http://twitter.com/devchattv)
+* Twitter: [@devchattv](http://twitter.com/iphreaks)
 * Frequency: weekly
 * Average Length: 55:19
 
