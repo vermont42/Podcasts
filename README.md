@@ -9,6 +9,8 @@ Podcast frequencies are approximate. Average length is of the past three episode
 
 Corrections and suggestions, via pull request or email to vermontcoder AT gmail DOT com, are welcome.
 
+Inactive podcasts are periodically culled but are happily re-added when appropriate.
+
 [![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/badges/shields.svg)]()
 [![Twitter](https://img.shields.io/badge/twitter-@vermont42-blue.svg?style=flat)](http://twitter.com/vermont42)
@@ -23,14 +25,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: weekly
 * Average Length: 1:39:15
 
-### Build Phase
-* Description: A "technical podcast discussing iOS development and design", as well as the iOS-consulting milieu in Europe.
-* Website: http://buildphase.fm/
-* Feed: https://rss.simplecast.com/podcasts/272/rss
-* Twitter: [@buildphase](https://twitter.com/buildphase)
-* Frequency: intermittent
-* Average Length: 40:05
-
 ### CacaoCast
 * Description: Two Quebecois software developers discuss their work and news from the Apple ecosystem.
 * Website: http://cacaocast.com/
@@ -39,14 +33,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: intermittent
 * Average Length: 1:02:43
 
-### CocoaConf Podcast
-* Description: This podcast, an outgrowth of the touring CocoaConf conference, consists of edited interviews with iOS/Mac developers, discussions of books of interest to iOS/Mac developers, and heads-ups about upcoming conferences.
-* Website: http://cocoaconf.com/podcast
-* Feed: http://cocoaconf.libsyn.com/rss
-* Twitter: [@cocoaconfcast](https://twitter.com/cocoaconfcast)
-* Frequency: intermittent
-* Average length: 44:02
-
 ### Coding Blocks
 * Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
 * Website: http://www.codingblocks.net/
@@ -54,14 +40,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@codingblocks](https://twitter.com/codingblocks)
 * Frequency: monthly
 * Average Length: 1:53:50
-
-### Consult
-* Description: An interview podcast about iOS and Mac software development specifically concerning the world of consultants – those who build apps for others. Content includes a mix of topical episodes and interviews with consultants and other developers.
-* Website: http://consultpodcast.com/
-* Feed: http://consultpodcast.com/Feed
-* Twitter: [@davekopec](https://twitter.com/davekopec)
-* Frequency: monthly
-* Average Length: 1:07:08
 
 ### Core Intuition
 * Description: A social-network impresario and a macOS developer discuss business and, less frequently, more-technical subjects.
@@ -78,14 +56,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Twitter: [@iosfranky](https://twitter.com/iosfranky) [@appentwicklervz](https://twitter.com/appentwicklervz)
 * Frequency: biweekly
 * Average Length: 36:58
-
-### Fatal Error
-* Description: Two iOS developers, insightful [blog](http://khanlou.com)[gers](https://www.dzombak.com/blog/) both, "discuss topics at the cutting edge of iOS software architecture, Swift[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and best practices." Even-numbered episodes are available to Patreon patrons. The free feed includes previews of the paid episodes.
-* Website: http://fatalerror.fm
-* Feed: http://fatalerror.fm/episodes?format=Feed
-* Twitter: [@fatalerrorfm](https://twitter.com/fatalerrorfm)
-* Frequency: biweekly
-* Average Length: 27:36
 
 ### Fireside Swift
 * Description: "Two buddies talk[] about a single programming concept each episode," for example optionals.
@@ -174,14 +144,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: intermittent
 * Average Length: 27:13
 
-### Playgrounds: Swift and Apple Developers Conference
-* Description: Playgrounds is Australia's conference dedicated to Swift and Apple-platform developers. Episodes consist of interviews with conference presenters.
-* Website: http://www.playgroundscon.com/podcast
-* Feed: https://playgroundscon.squarespace.com/podcast?format=rss
-* Twitter: [@playgroundscon](https://twitter.com/playgroundscon)
-* Frequency: weekly
-* Average Length: 38:16
-
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
 * Website: http://www.programmingthrowdown.com
@@ -254,6 +216,14 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
+### SwiftCoders
+ * Description: An iOS developer interviews a different iOS or Mac developer each week about developing for Apple platforms. The [host](https://twitter.com/garricn) uses an interesting [app](https://tryca.st) to record, edit, publish, and host the podcast.
+ * Website: http://swiftcoders.podbean.com
+ * Feed: http://swiftcoders.podbean.com/feed/
+ * Twitter: [@garricn](https://twitter.com/garricn)
+ * Frequency: intermittent
+ * Average Length: 63:42
+
 ### SwiftCraft Podcast
 * Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
 * Website: https://emanleet.com
@@ -315,11 +285,16 @@ Dearly Departed Podcasts
 * CocoaRadio
 * Bitsplitting
 * Build and Analyze
+* Build Phase
+* CocoaConf
 * Concepts in Code
+* Consult
 * Debug
 * Developing Perspective
 * Edge Cases
+* Fatal Error
 * Friday Q&A
+* iDeveloper Podcast
 * History of Rome
 * Hypercritical
 * Identical Cousins
@@ -332,13 +307,13 @@ Dearly Departed Podcasts
 * Mobile Couch
 * Notification Center
 * NSBrief
+* Playgrounds
 * El Podcast de Aprende iOS
 * The Record
 * The Run Loop
 * Runtime
 * Springboard
 * Swift Playhouse
-* SwiftCoders
 * Topical
 * Verbose Podcast
 
