@@ -12,7 +12,6 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 Inactive podcasts are periodically culled but are happily re-added when appropriate.
 
 [![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/badges/shields.svg)]()
 [![Twitter](https://img.shields.io/badge/twitter-@vermont42-blue.svg?style=flat)](http://twitter.com/vermont42)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![cat](https://img.shields.io/badge/cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
