@@ -17,7 +17,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 [![cat](https://img.shields.io/badge/cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
 
 ### Accidental Tech Podcast
-* Description: A Perl/JavaScript developer, a Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
+* Description: A Perl/JavaScript developer, a former Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * Website: http://atp.fm/
 * Feed: http://atp.fm/episodes?format=Feed
 * Twitter: [@atpfm](https://twitter.com/atpfm)
@@ -103,14 +103,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@insideiosdev](https://twitter.com/insideiosdev)
 * Frequency: intermittent
 * Average Length: 21:15
-
-### iOS Dev Break
-* Description: A consultant and [indie developer](https://itunes.apple.com/us/app/nineoneone-one-touch-emergency/id387750159?mt=8) provides "fifteen minutes of current events, tips, and advice for iOS Developers, including – but not limited to – discussions of Swift, iOS, watchOS, and tvOS!"
-* Website: http://iosdevbreak.com
-* Feed: http://iosdevbreak.libsyn.com/rss
-* Twitter: [@iOSDevBreak](https://twitter.com/iOSDevBreak)
-* Frequency: weekly
-* Average Length: 16:34
 
 ### iPhreaks
 * Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
@@ -239,14 +231,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: monthly
 * Average Length: 50:02
 
-### Swift Teacher
-* Description: An international discussion of teachers who use the Swift language to teach programming and basic computer-science topics to students ranging from primary school to university.
-* Website: https://www.ifoutty.com
-* Feed: http://cast.rocks/hosting/7212/feeds/72WBK.xml
-* Twitter: [@bfoutty](https://twitter.com/bfoutty)
-* Frequency: biweekly
-* Average Length: 23:13
-
 ### Swift Unwrapped
 * Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and the evolution thereof.
 * Website: https://spec.fm/podcasts/swift-unwrapped
@@ -279,14 +263,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 35:55
 
-### Worst Case Scenario
-* Description: Three iOS developers from Limerick, Ireland discuss app development, tech, education[,](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/) and life.
-* Website: http://worstcasescenario.ie
-* Feed: http://worstcasescenario.ie/feed/podcast
-* Twitter: [@TheDaveSims](http://twitter.com/TheDaveSims)
-* Frequency: weekly
-* Average Length: 1:00:18
-
 Dearly Departed Podcasts
 ========================
 * CocoaRadio
@@ -308,6 +284,7 @@ Dearly Departed Podcasts
 * Import Foundation
 * iOhYes
 * iOSBytes
+* iOS Dev Break
 * iOS Dev Diary
 * Janie Rants
 * Mobile & Beer
@@ -321,8 +298,10 @@ Dearly Departed Podcasts
 * Runtime
 * Springboard
 * Swift Playhouse
+* Swift Teacher
 * Topical
 * Verbose Podcast
+* Worst Case Scenario
 
 Credits
 =======
