@@ -24,6 +24,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:39:15
 
+### All Things Git
+* Description: This is _the_ "podcast about the Git version control system. [The hosts] talk to the people who build Git, who create tools for Git[,] and [who] teach people how to use it."
+* Website: https://www.allthingsgit.com
+* Feed: https://www.allthingsgit.com/rss.xml
+* Twitter: [@allthingsgit](https://twitter.com/allthingsgit)
+* Frequency: approximately fortnightly
+* Average Length: 29:30
+
 ### App Dev Diary
 * [Ben Scheirman](https://nsscreencast.com) and [Joe Cieplinski](https://itunes.apple.com/us/app/leo-collection/id1150940340) team up to create an app. This podcast documents their journey through ideas, sketching UI, technology choices, design tradeoffs, marketing, and more.
 * Website: http://appdevdiary.com
@@ -111,13 +119,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@devchattv](http://twitter.com/iphreaks)
 * Frequency: weekly
 * Average Length: 55:19
-
-### The Learn Swift Podcast
-* Description: Beginners to the Swift language share their backgrounds, experiences, lessons learned, and ambitions.
-* Feed: http://cast.rocks/hosting/9023/feeds/94T7P.xml
-* Twitter: [@steven_0351](https://twitter.com/steven_0351)
-* Frequency: weekly
-* Average Length: 46:02
 
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
@@ -287,6 +288,7 @@ Dearly Departed Podcasts
 * iOS Dev Break
 * iOS Dev Diary
 * Janie Rants
+* The Learn Swift Podcast
 * Mobile & Beer
 * Mobile Couch
 * Notification Center
