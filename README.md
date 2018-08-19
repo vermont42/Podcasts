@@ -112,6 +112,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 21:15
 
+### iOS Dev Discussions
+* Description: The host, [Sean Allen](https://seanallen.co), "[discuss[es] the world of iOS Development and the latest news in Swift." The podcast features live streams and Swift News from Sean Allen's YouTube [channel](https://youtube.com/seanallen).
+* Website: https://anchor.fm/seanallen
+* Feed: https://anchor.fm/s/5971378/podcast/rss
+* Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev)
+* Frequency: twice weekly
+* Average Length: 28:00
+
 ### iPhreaks
 * Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 * Website: https://devchat.tv/iphreaks
