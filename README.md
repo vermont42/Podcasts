@@ -244,7 +244,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Description: This "is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen. Each episode has news, our picks of the week, plus an open ballot where you can share your views on important topics."
 * Website: https://anchor.fm/swiftovercoffee/
 * Feed: https://anchor.fm/s/572fc68/podcast/rss
-* Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev) [@twostraws](https://twitter.com/twostraws)
+* Twitter: [@swiftovercoffee](https://twitter.com/swiftovercoffee)
 * Frequency: biweekly
 * Average Length: 26:20
 
