@@ -56,6 +56,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: monthly
 * Average Length: 1:53:50
 
+### Contravariance. A Swift Podcast
+* Description: "A podcast about Apple, Swift[,] and other programming topics", hosted by Bas Broek and Benedikt Terhechte.
+* Website: https://contravariance.rocks
+* Feed: https://contravariance.rocks/feed.rss
+* Twitter: [@_contravariance](https://twitter.com/_contravariance)
+* Frequency: approximately triweekly
+* Average Length: 33:07
+
 ### Core Intuition
 * Description: A social-network impresario and a macOS developer discuss business and, less frequently, more-technical subjects.
 * Website: http://www.coreint.org/
@@ -125,7 +133,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://devchat.tv/iphreaks
 * Feed: http://feeds.feedwrench.com/iPhreaks.Feed
 * Twitter: [@devchattv](http://twitter.com/iphreaks)
-* Frequency: weekly
+* Frequency: variable
 * Average Length: 55:19
 
 ### Merge Conflict
@@ -224,14 +232,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
-### SwiftCoders
- * Description: An iOS developer interviews a different iOS or Mac developer each week about developing for Apple platforms. The [host](https://twitter.com/garricn) uses an interesting [app](https://tryca.st) to record, edit, publish, and host the podcast.
- * Website: http://swiftcoders.podbean.com
- * Feed: http://swiftcoders.podbean.com/feed/
- * Twitter: [@garricn](https://twitter.com/garricn)
- * Frequency: intermittent
- * Average Length: 63:42
-
 ### SwiftCraft Podcast
 * Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
 * Website: https://emanleet.com
@@ -317,6 +317,7 @@ Dearly Departed Podcasts
 * Springboard
 * Swift Playhouse
 * Swift Teacher
+* SwiftCoders
 * Topical
 * Verbose Podcast
 * Worst Case Scenario
