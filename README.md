@@ -160,6 +160,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 27:13
 
+### Pineapple Shirt
+* Description: An [Ozzie](https://en.wikipedia.org/wiki/Aussie) newcomer to software development shares his experience of "learn[ing] to code iOS 12 apps with Swift 4.2".
+* Website: https://anchor.fm/louis-blythe
+* Feed: https://anchor.fm/s/7289b44/podcast/rss
+* Twitter: [@louisblythe](https://twitter.com/louisblythe)
+* Frequency: intermittent
+* Average Length: 7:30
+
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
 * Website: http://www.programmingthrowdown.com
