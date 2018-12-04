@@ -240,6 +240,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
+### SwiftCairo Podcast
+* Description: Two Cairo-based iOS developers discuss iOS and career development.
+* Website: https://anchor.fm/swiftcairo/
+* Feed: https://anchor.fm/s/7f50a08/podcast/rss
+* Twitter: [@swiftcairo](https://twitter.com/swiftcairo?lang=en)
+* Frequency: TBD
+* Average Length: 71:14
+
 ### SwiftCraft Podcast
 * Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
 * Website: https://emanleet.com
