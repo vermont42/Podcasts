@@ -17,7 +17,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 [![cat](https://img.shields.io/badge/cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
 
 ### Accidental Tech Podcast
-* Description: A Perl/JavaScript developer, a former Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
+* Description: A Perl/JavaScript developer, a former SharePoint developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * Website: http://atp.fm/
 * Feed: http://atp.fm/episodes?format=Feed
 * Twitter: [@atpfm](https://twitter.com/atpfm)
@@ -127,6 +127,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev)
 * Frequency: twice weekly
 * Average Length: 28:00
+
+### iOS Dev Talks
+* Description: A Bangalore-based iOS developer discusses topics such as access control and the SOLID principles, sometimes with a guest.
+* Website: https://anchor.fm/gouravnayyar
+* Feed: https://anchor.fm/s/1c6d968/podcast/rss
+* Twitter: [@gouravnayyar](https://twitter.com/gouravnayyar)
+* Frequency: TBD
+* Average Length: 29:20
 
 ### iPhreaks
 * Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
