@@ -121,12 +121,12 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 21:15
 
 ### iOS Dev Discussions
-* Description: The host, [Sean Allen](https://seanallen.co), "[d]iscuss[es] the world of iOS Development and the latest news in Swift." The podcast features live streams and Swift News from Sean Allen's YouTube [channel](https://youtube.com/seanallen).
+* Description: The host, [Sean Allen](https://seanallen.co), "[d]iscuss[es] the world of iOS Development and the latest news in Swift." The podcast features replays of live streams and Swift News from Sean's YouTube [channel](https://youtube.com/seanallen), as well as interviews with iOS developers and updates on the [app](https://www.aluna.io) Sean is working on.
 * Website: https://anchor.fm/seanallen
 * Feed: https://anchor.fm/s/5971378/podcast/rss
 * Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev)
-* Frequency: twice weekly
-* Average Length: 28:00
+* Frequency: two to three times a week
+* Average Length: 24:00
 
 ### iOS Dev Talks
 * Description: A Bangalore-based iOS developer discusses topics such as access control and the SOLID principles, sometimes with a guest.
