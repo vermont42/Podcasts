@@ -256,6 +256,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: TBD
 * Average Length: 71:14
 
+### Swift Community Podcast
+* Description: This is "a podcast for the Swift community, by the Swift community" hosted by three Swift developers, including the [creator](https://twitter.com/clattner_llvm) of LLVM and Swift.
+* Website: https://www.swiftcommunitypodcast.org
+* Feed: https://swiftcommunitypodcast.org/?format=rss
+* Twitter: [@theswiftpodcast](https://twitter.com/theswiftpodcast)
+* Frequency: TBD
+* Average Length: 1:07:27
+
 ### SwiftCraft Podcast
 * Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
 * Website: https://emanleet.com
