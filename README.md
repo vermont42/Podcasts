@@ -17,7 +17,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 [![cat](https://img.shields.io/badge/cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
 
 ### Accidental Tech Podcast
-* Description: A Perl/JavaScript developer, a former SharePoint developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
+* Description: A Perl/JavaScript developer, a former Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * Website: http://atp.fm/
 * Feed: http://atp.fm/episodes?format=Feed
 * Twitter: [@atpfm](https://twitter.com/atpfm)
@@ -31,14 +31,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@allthingsgit](https://twitter.com/allthingsgit)
 * Frequency: approximately fortnightly
 * Average Length: 29:30
-
-### App Dev Diary
-* [Ben Scheirman](https://nsscreencast.com) and [Joe Cieplinski](https://itunes.apple.com/us/app/leo-collection/id1150940340) team up to create an app. This podcast documents their journey through ideas, sketching UI, technology choices, design tradeoffs, marketing, and more.
-* Website: http://appdevdiary.com
-* Feed: https://rss.simplecast.com/podcasts/5425/rss
-* Twitter: [@jcieplinski](https://twitter.com/jcieplinski) [@subdigital](https://twitter.com/subdigital)
-* Frequency: unknown
-* Average Length: 43:35
 
 ### CacaoCast
 * Description: Two Quebecois software developers discuss their work and news from the Apple ecosystem.
@@ -314,11 +306,12 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 
 Dearly Departed Podcasts
 ========================
-* CocoaRadio
+* App Dev Diary
 * Bitsplitting
 * Build and Analyze
 * Build Phase
 * CocoaConf
+* CocoaRadio
 * Concepts in Code
 * Consult
 * Debug
