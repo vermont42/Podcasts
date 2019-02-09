@@ -343,6 +343,6 @@ Credits
 =======
 Thanks to all the podcasts for sharing such amazing content.
 
-Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Import Foundation](http://importfoundation.libsyn.com), [Launch Therapy](https://medium.com/@LaunchKit), [Michael Tsai](http://mjtsai.com), and [iDeveloper Podcast](http://blog.ideveloper.co) for helping to publicize this list.
+Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Import Foundation](http://importfoundation.libsyn.com), [Launch Therapy](https://medium.com/@LaunchKit), [Michael Tsai](http://mjtsai.com), [Sean Allen](https://seanallen.co), and [iDeveloper Podcast](http://blog.ideveloper.co) for helping to publicize this list.
 
 Thanks also to the list contributors.
