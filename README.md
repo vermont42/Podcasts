@@ -136,6 +136,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: variable
 * Average Length: 55:19
 
+### Iterate
+* Description: "With short episodes, this [podcast] provides a place to chronicle David’s journey as he builds [iOS] applications and products as a side business." I'm pulling for the theremin app.
+* Website: http://davidgarywood.com/iterate/
+* Feed: https://iterate.libsyn.com/rss
+* Twitter: [@davidgarywood](https://twitter.com/davidgarywood)
+* Frequency: every few days
+* Average Length: 6:00
+
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
 * Website: http://www.mergeconflict.fm
@@ -213,8 +221,8 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://stacktracepodcast.fm
 * Feed: https://stacktracepodcast.fm/?format=rss
 * Twitter: [@stacktracepod](https://twitter.com/stacktracepod)
-* Frequency: biweekly
-* Average Length: 60:07
+* Frequency: weekly
+* Average Length: 1:14:07
 
 ### Supertop Podcast
 * Description: Two Irish developers of an iOS app, drawing upon Ireland's tradition of amazing [craftsmanship](https://www.tcd.ie/Library/manuscripts/book-of-kells.php), discuss app development and sometimes interview [guests](http://inessential.com).
