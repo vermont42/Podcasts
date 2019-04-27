@@ -24,14 +24,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:39:15
 
-### All Things Git
-* Description: This is _the_ "podcast about the Git version control system. [The hosts] talk to the people who build Git, who create tools for Git[,] and [who] teach people how to use it."
-* Website: https://www.allthingsgit.com
-* Feed: https://www.allthingsgit.com/rss.xml
-* Twitter: [@allthingsgit](https://twitter.com/allthingsgit)
-* Frequency: approximately fortnightly
-* Average Length: 29:30
-
 ### CacaoCast
 * Description: Two Quebecois software developers discuss their work and news from the Apple ecosystem.
 * Website: http://cacaocast.com/
@@ -39,6 +31,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
 * Frequency: intermittent
 * Average Length: 1:02:43
+
+### CastKit
+* Description: Three Boston-based iOS developers discuss "iOS Development, Apple, and the tech industry."
+* Website: https://castkit.fm
+* Feed: https://pod.icalvin.dev/castkit
+* Twitter: [@castkitfm](https://twitter.com/castkitfm)
+* Frequency: semi-monthly
+* Average Length: 1:19:42
 
 ### Coding Blocks
 * Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
@@ -87,6 +87,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@hallo_swift](https://twitter.com/hallo_swift)
 * Frequency: intermittent
 * Average Length: 23:42
+
+### Hello Code
+* Description: "Josh and Belle[, an iOS developer,] discuss the ins and outs of building products, talking to customers, and navigating startup life."
+* Website: https://hellocode.simplecast.fm
+* Feed: https://rss.simplecast.com/podcasts/1126/rss
+* Twitter: [@hellocodeco](https://twitter.com/hellocodeco)
+* Frequency: intermittent
+* Average Length: 37:20
 
 ### iDeveloper Podcast
 * Description: A Mac and iOS developer/[guru](https://youtu.be/9VojuJpUuE8?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) discuss Apple-software development and other topics.
@@ -143,6 +151,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@davidgarywood](https://twitter.com/davidgarywood)
 * Frequency: every few days
 * Average Length: 6:00
+
+### Learning Swift with You: iOS and Game Development and Technology Talk
+* Description: The host "discuss[es] [his] journey through the exciting world of computer programming[, hoping] to form a community of like-minded programmers."
+* Website: https://anchor.fm/eman
+* Feed: https://anchor.fm/s/ad0f20/podcast/rss
+* Twitter: [@scruffyminds](https://twitter.com/scruffyminds)
+* Frequency: TBD
+* Average Length: 15:00
 
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
@@ -306,6 +322,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 
 Dearly Departed Podcasts
 ========================
+* All Things Git
 * App Dev Diary
 * Bitsplitting
 * Build and Analyze
