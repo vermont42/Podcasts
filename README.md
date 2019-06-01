@@ -64,6 +64,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:03:47
 
+### Empower Apps
+* Description: "An episodic exploration of Apple technology and how businesses can utilize technology to empower their business and employees, from Leo Dion, founder of BrightDigit."
+* Website: https://www.empowerapps.show
+* Feed: https://feeds.transistor.fm/empowerapps-show
+* Twitter: [@brightdigit](https://twitter.com/brightdigit)
+* Frequency: intermittent
+* Average Length: 36:33
+
 ### Einfach iOS
 * Loosely translated description: A German-language podcast in which the iOS-developer hosts "talk about topics that are pertinent to iOS".
 * Website: https://einfachios.de
@@ -128,13 +136,13 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: two to three times a week
 * Average Length: 24:00
 
-### iOS Dev Talks
+### iOS Dev Podcast
 * Description: A Bangalore-based iOS developer discusses topics such as access control and the SOLID principles, sometimes with a guest.
 * Website: https://anchor.fm/gouravnayyar
 * Feed: https://anchor.fm/s/1c6d968/podcast/rss
 * Twitter: [@gouravnayyar](https://twitter.com/gouravnayyar)
-* Frequency: TBD
-* Average Length: 29:20
+* Frequency: intermittent
+* Average Length: 14:44
 
 ### iPhreaks
 * Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
