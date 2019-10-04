@@ -32,14 +32,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 1:02:43
 
-### CastKit
-* Description: Three Boston-based iOS developers discuss "iOS Development, Apple, and the tech industry."
-* Website: https://castkit.fm
-* Feed: https://pod.icalvin.dev/castkit
-* Twitter: [@castkitfm](https://twitter.com/castkitfm)
-* Frequency: semi-monthly
-* Average Length: 1:19:42
-
 ### Coding Blocks
 * Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
 * Website: http://www.codingblocks.net/
@@ -47,6 +39,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@codingblocks](https://twitter.com/codingblocks)
 * Frequency: monthly
 * Average Length: 1:53:50
+
+### Compile Swift
+* Description: This podcast "discusses everything from Swift news and tools to the news and anything else that covers the programming language."
+* Website: https://www.compileswift.com
+* Feed: https://anchor.fm/s/bd86b38/podcast/rss
+* Twitter: [@CompileSwift](https://twitter.com/CompileSwift)
+* Frequency: approximately biweekly
+* Average Length: 10:55
 
 ### Contravariance. A Swift Podcast
 * Description: "A podcast about Apple, Swift[,] and other programming topics", hosted by Bas Broek and Benedikt Terhechte.
@@ -72,14 +72,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 36:33
 
-### Einfach iOS
-* Loosely translated description: A German-language podcast in which the iOS-developer hosts "talk about topics that are pertinent to iOS".
-* Website: https://einfachios.de
-* Feed: https://feeds.soundcloud.com/users/soundcloud:users:317689040/sounds.rss
-* Twitter: [@iosfranky](https://twitter.com/iosfranky) [@appentwicklervz](https://twitter.com/appentwicklervz)
-* Frequency: biweekly
-* Average Length: 36:58
-
 ### Fireside Swift
 * Description: "Two buddies talk[] about a single programming concept each episode," for example optionals.
 * Website: http://cast.rocks/hosting/7479/feeds/IZO76.html
@@ -87,14 +79,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@swberard](https://twitter.com/swberard) [@zfalgout1](https://twitter.com/zfalgout1)
 * Frequency: intermittent
 * Average Length: 45:16
-
-### Hallo Swift
-* Description: Two German iOS developers discuss iOS development.
-* Website: http://hallo-swift.de
-* Feed: http://feeds.soundcloud.com/users/soundcloud:users:300507271/sounds.rss
-* Twitter: [@hallo_swift](https://twitter.com/hallo_swift)
-* Frequency: intermittent
-* Average Length: 23:42
 
 ### Hello Code
 * Description: "Josh and Belle[, an iOS developer,] discuss the ins and outs of building products, talking to customers, and navigating startup life."
@@ -111,6 +95,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@macdevnet](https://twitter.com/macdevnet)
 * Frequency: intermittent
 * Average Length: 31:43
+
+### iOS Building Blocks
+* Description: An iOS developer interviews members of the community.
+* Website: https://youtube.com/ScottSmithDev
+* Feed: https://anchor.fm/s/b24b688/podcast/rss
+* Twitter: [@scottsmith_dev](https://twitter.com/scottsmith_dev)
+* Frequency: intermittent
+* Average Length: 42:42
 
 ### Infinitum
 * Description: An iOS developer and a 4D ninja discuss, in [Serbian](http://home.uchicago.edu/~vfriedm/Articles/243Friedman.pdf), Apple and related technologies.
@@ -129,20 +121,20 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 21:15
 
 ### iOS Dev Discussions
-* Description: The host, [Sean Allen](https://seanallen.co), "[d]iscuss[es] the world of iOS Development and the latest news in Swift." The podcast features replays of live streams and Swift News from Sean's YouTube [channel](https://youtube.com/seanallen), as well as interviews with iOS developers and updates on the [app](https://www.aluna.io) Sean is working on.
+* Description: The host, [Sean Allen](https://seanallen.co), "[d]iscuss[es] the world of iOS Development and the latest news in Swift." The podcast features replays of live streams and Swift News from Sean's YouTube [channel](https://youtube.com/seanallen), as well as interviews with iOS developers.
 * Website: https://anchor.fm/seanallen
 * Feed: https://anchor.fm/s/5971378/podcast/rss
 * Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev)
 * Frequency: two to three times a week
 * Average Length: 24:00
 
-### iOS Dev Podcast
-* Description: A Bangalore-based iOS developer discusses topics such as access control and the SOLID principles, sometimes with a guest.
-* Website: https://anchor.fm/gouravnayyar
-* Feed: https://anchor.fm/s/1c6d968/podcast/rss
-* Twitter: [@gouravnayyar](https://twitter.com/gouravnayyar)
-* Frequency: intermittent
-* Average Length: 14:44
+### iOS Lead Essentials Podcast
+* Description: A Greek and a Brazilian iOS developer discuss best coding practices, architecture, and career development.
+* Website: https://www.essentialdeveloper.com
+* Feed: https://www.essentialdeveloper.com/ios-lead-essentials/podcast?format=rss
+* Twitter: [@essentialdevcom](https://twitter.com/essentialdevcom)
+* Frequency: approximately biweekly
+* Average Length: 52:03
 
 ### iPhreaks
 * Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
@@ -216,14 +208,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 37:46
 
-### SharedInstance
-* Description: Three iOS developers discuss various iOS-development topics.
-* Website: http://sharedinstance.com
-* Feed: http://simplecast.com/podcasts/1008/Feed
-* Twitter: [@sharedinst](https://twitter.com/sharedinst)
-* Frequency: intermittent
-* Average Length: 36:32
-
 ### Software Engineering Daily
 * Description: A former developer interviews one guest per episode about topics of interest to software developers.
 * Website: http://softwareengineeringdaily.com
@@ -247,14 +231,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@stacktracepod](https://twitter.com/stacktracepod)
 * Frequency: weekly
 * Average Length: 1:14:07
-
-### Supertop Podcast
-* Description: Two Irish developers of an iOS app, drawing upon Ireland's tradition of amazing [craftsmanship](https://www.tcd.ie/Library/manuscripts/book-of-kells.php), discuss app development and sometimes interview [guests](http://inessential.com).
-* Website: http://supertop.co
-* Feed: http://cast.rocks/hosting/2041/feeds/CQMQA.xml
-* Twitter: [@supertopsquid](https://twitter.com/supertopsquid)
-* Frequency: intermittent
-* Average Length: 43:42
 
 ### Swift by Sundell
 * Description: An iOS developer and a guest answer questions from listeners about Swift, iOS development, and software development generally.
@@ -287,6 +263,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@emanleet](https://twitter.com/emanleet)
 * Frequency: monthly
 * Average Length: 50:02
+
+### Swift Life
+* Description: The host "talk[s] about [his] week working as a Swift/iOS Developer[] and ramble[s] on about other things, be they Swifty or not." The show art features the pixelated-sunglasses meme.
+* Website: https://www.youtube.com/channel/UC2isVsghQK1uKUAQy-FV_4A/
+* Feed: https://anchor.fm/s/a7513a4/podcast/rss
+* Twitter: [@MilesOfTweets](twitter.com/MilesOfTweets)
+* Frequency: intermittent
+* Average Length: 19:02
 
 ### Swift over Coffee
 * Description: This "is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen. Each episode has news, our picks of the week, plus an open ballot where you can share your views on important topics."
@@ -335,6 +319,7 @@ Dearly Departed Podcasts
 * Bitsplitting
 * Build and Analyze
 * Build Phase
+* CastKit
 * CocoaConf
 * CocoaRadio
 * Concepts in Code
@@ -342,9 +327,11 @@ Dearly Departed Podcasts
 * Debug
 * Developing Perspective
 * Edge Cases
+* Einfach iOS
 * Fatal Error
 * Friday Q&A
 * iDeveloper Podcast
+* Hallo Swift
 * History of Rome
 * Hypercritical
 * Identical Cousins
@@ -365,6 +352,7 @@ Dearly Departed Podcasts
 * The Run Loop
 * Runtime
 * Springboard
+* Supertop Podcast
 * Swift Playhouse
 * Swift Teacher
 * SwiftCoders
