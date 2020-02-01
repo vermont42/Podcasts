@@ -100,7 +100,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Description: An iOS developer interviews members of the community.
 * Website: https://youtube.com/ScottSmithDev
 * Feed: https://anchor.fm/s/b24b688/podcast/rss
-* Twitter: [@scottsmith_dev](https://twitter.com/scottsmith_dev)
+* Twitter: [@scottsmithdev](https://twitter.com/scottsmithdev)
 * Frequency: intermittent
 * Average Length: 42:42
 
