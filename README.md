@@ -24,6 +24,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:39:15
 
+### Buffer Overflow
+* Description: An iOS and Android developer at Buffer "cover all of the challenges modern companies face when creating software[;] how to do it on a team that spans the globe and several timezones[;] and lessons learned along the way creating Buffer".
+* Website: https://anchor.fm/bufferoverflow
+* Feed: https://anchor.fm/s/e0146dc/podcast/rss
+* Twitter: [@jordanmorgan10](https://twitter.com/jordanmorgan10) [@hitherejoe](https://twitter.com/hitherejoe)
+* Frequency: monthly
+* Average Length: 33:14
+
 ### CacaoCast
 * Description: Two Quebecois software developers discuss their work and news from the Apple ecosystem.
 * Website: http://cacaocast.com/
@@ -79,14 +87,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@swberard](https://twitter.com/swberard) [@zfalgout1](https://twitter.com/zfalgout1)
 * Frequency: intermittent
 * Average Length: 45:16
-
-### Hello Code
-* Description: "Josh and Belle[, an iOS developer,] discuss the ins and outs of building products, talking to customers, and navigating startup life."
-* Website: https://hellocode.simplecast.fm
-* Feed: https://rss.simplecast.com/podcasts/1126/rss
-* Twitter: [@hellocodeco](https://twitter.com/hellocodeco)
-* Frequency: intermittent
-* Average Length: 37:20
 
 ### iDeveloper Podcast
 * Description: A Mac and iOS developer/[guru](https://youtu.be/9VojuJpUuE8?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) discuss Apple-software development and other topics.
@@ -144,21 +144,21 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: variable
 * Average Length: 55:19
 
-### Iterate
-* Description: "With short episodes, this [podcast] provides a place to chronicle David’s journey as he builds [iOS] applications and products as a side business." I'm pulling for the theremin app.
-* Website: http://davidgarywood.com/iterate/
-* Feed: https://iterate.libsyn.com/rss
-* Twitter: [@davidgarywood](https://twitter.com/davidgarywood)
-* Frequency: every few days
-* Average Length: 6:00
+### Launched
+* Description: "[T]he show talking to creators about launching their creations[, largely iOS apps,] into the world."
+* Website: https://launchedfm.com
+* Feed: http://feed.launchedfm.com/
+* Twitter: [@launchedfm](https://twitter.com/launchedfm)
+* Frequency: biweekly
+* Average Length: 1:23:57
 
-### Learning Swift with You: iOS and Game Development and Technology Talk
-* Description: The host "discuss[es] [his] journey through the exciting world of computer programming[, hoping] to form a community of like-minded programmers."
-* Website: https://anchor.fm/eman
-* Feed: https://anchor.fm/s/ad0f20/podcast/rss
-* Twitter: [@scruffyminds](https://twitter.com/scruffyminds)
-* Frequency: TBD
-* Average Length: 15:00
+### Lyft Mobile
+* Description: Mobile developers at Lyft speak with other Lyftians about a variety of topics involving mobile development.
+* Website: http://lyftmobilepodcast.libsyn.com
+* Feed: http://lyftmobilepodcast.libsyn.com/rss
+* Twitter: [@adamawolf](https://twitter.com/adamawolf) (and others)
+* Frequency: varies
+* Average Length: 35:29
 
 ### Merge Conflict
 * Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
@@ -197,7 +197,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://www.raywenderlich.com/rwpodcast
 * Feed: http://www.raywenderlich.com/category/podcast/feed
 * Twitter: [@rwenderlich](https://twitter.com/rwenderlich)
-* Frequency: biweekly
+* Frequency: varies
 * Average Length: 40:50
 
 ### Release Notes
@@ -240,20 +240,12 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
-### SwiftCairo Podcast
-* Description: Two Cairo-based iOS developers discuss iOS and career development.
-* Website: https://anchor.fm/swiftcairo/
-* Feed: https://anchor.fm/s/7f50a08/podcast/rss
-* Twitter: [@swiftcairo](https://twitter.com/swiftcairo?lang=en)
-* Frequency: TBD
-* Average Length: 71:14
-
 ### Swift Community Podcast
 * Description: This is "a podcast for the Swift community, by the Swift community" hosted by three Swift developers, including a [creator](https://twitter.com/clattner_llvm) of LLVM and Swift.
 * Website: https://www.swiftcommunitypodcast.org
 * Feed: https://swiftcommunitypodcast.org/?format=rss
 * Twitter: [@theswiftpodcast](https://twitter.com/theswiftpodcast)
-* Frequency: TBD
+* Frequency: intermittent
 * Average Length: 1:07:27
 
 ### SwiftCraft Podcast
@@ -263,14 +255,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@emanleet](https://twitter.com/emanleet)
 * Frequency: monthly
 * Average Length: 50:02
-
-### Swift Life
-* Description: The host "talk[s] about [his] week working as a Swift/iOS Developer[] and ramble[s] on about other things, be they Swifty or not." The show art features the pixelated-sunglasses meme.
-* Website: https://www.youtube.com/channel/UC2isVsghQK1uKUAQy-FV_4A/
-* Feed: https://anchor.fm/s/a7513a4/podcast/rss
-* Twitter: [@MilesOfTweets](twitter.com/MilesOfTweets)
-* Frequency: intermittent
-* Average Length: 19:02
 
 ### Swift over Coffee
 * Description: This "is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and Sean Allen. Each episode has news, our picks of the week, plus an open ballot where you can share your views on important topics."
@@ -332,10 +316,12 @@ Dearly Departed Podcasts
 * Friday Q&A
 * iDeveloper Podcast
 * Hallo Swift
+* Hello Code
 * History of Rome
 * Hypercritical
 * Identical Cousins
 * Import Foundation
+* Iterate Microcast
 * iOhYes
 * iOSBytes
 * iOS Dev Break
@@ -353,8 +339,10 @@ Dearly Departed Podcasts
 * Runtime
 * Springboard
 * Supertop Podcast
+* Swift Life
 * Swift Playhouse
 * Swift Teacher
+* SwiftCairo
 * SwiftCoders
 * Topical
 * Verbose Podcast
