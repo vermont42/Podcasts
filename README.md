@@ -176,14 +176,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:31:26
 
-### The Omni Show
-* Description: Brent Simmons elicits the "stories behind Omni’s award-winning productivity apps for Mac and iOS". Simmons's questions are thoughtful and non-leading.
-* Website: https://theomnishow.omnigroup.com
-* Feed: https://theomnishow.omnigroup.com/rss/
-* Twitter: [@brentsimmons](https://twitter.com/brentsimmons)
-* Frequency: intermittent
-* Average Length: 27:13
-
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
 * Website: http://www.programmingthrowdown.com
@@ -332,6 +324,7 @@ Dearly Departed Podcasts
 * Mobile Couch
 * Notification Center
 * NSBrief
+* The Omni Show
 * Playgrounds
 * El Podcast de Aprende iOS
 * The Record
