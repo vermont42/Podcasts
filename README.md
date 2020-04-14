@@ -176,6 +176,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:31:26
 
+### Not Another Swift Podcast
+* Description: "NASP (Not Another Swift Podcast) is a podcast about Matt’s journey to his first iOS developer role and Jason’s experiences being a 'professional' iOS developer. Each week we discuss things Matt has learned, struggles he’s faced, and any questions he came up with. Jason also shares some of his experience related to the topics."
+* Website: http://notanotherswiftpodcast.com
+* Feed: https://anchor.fm/s/124027e0/podcast/rss
+* Twitter: [@swift_podcast](https://twitter.com/swift_podcast)
+* Frequency: weekly
+* Average Length: 1:23:42
+
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
 * Website: http://www.programmingthrowdown.com
