@@ -240,6 +240,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
+### The Swift Code Review Podcast
+* Description: In-depth technical analysis of Swift code, discussing pros and cons as they relate to iOS and server-side Swift development.
+* Website: https://jeffreyfulton.ca/swift-code-review
+* Feed: https://jeffreyfulton.ca/swift-code-review/feed
+* Twitter: [@jeffreyfultonca](https://twitter.com/jeffreyfultonca)
+* Frequency: intermittent but regular
+* Average Length: 20:36
+
 ### Swift Community Podcast
 * Description: This is "a podcast for the Swift community, by the Swift community" hosted by three Swift developers, including a [creator](https://twitter.com/clattner_llvm) of LLVM and Swift.
 * Website: https://www.swiftcommunitypodcast.org
