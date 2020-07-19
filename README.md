@@ -11,10 +11,11 @@ Corrections and suggestions, via pull request or email to vermontcoder AT gmail 
 
 Inactive podcasts are periodically culled but are happily re-added when appropriate.
 
-[![GitHub Stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]()
+[![GitHub Stars](https://img.shields.io/github/stars/vermont42/Podcasts?style=social)]()
 [![Twitter](https://img.shields.io/badge/twitter-@vermont42-blue.svg?style=flat)](http://twitter.com/vermont42)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![cat](https://img.shields.io/badge/cat-friendly-blue.svg)](https://twitter.com/vermont42/status/784504585243078656)
+[![🐋](https://img.shields.io/badge/whales-saved-yellowgreen)](https://savethewhales.org)
 
 ### Accidental Tech Podcast
 * Description: A Perl/JavaScript developer, a former Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
