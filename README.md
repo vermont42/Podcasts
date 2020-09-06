@@ -30,7 +30,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://anchor.fm/bufferoverflow
 * Feed: https://anchor.fm/s/e0146dc/podcast/rss
 * Twitter: [@jordanmorgan10](https://twitter.com/jordanmorgan10) [@hitherejoe](https://twitter.com/hitherejoe)
-* Frequency: monthly
+* Frequency: intermittent
 * Average Length: 33:14
 
 ### CacaoCast
@@ -40,14 +40,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
 * Frequency: intermittent
 * Average Length: 1:02:43
-
-### Coding Blocks
-* Description: Three .NET and Javascript developers discuss the art of programming. This is a beard-friendly podcast.
-* Website: http://www.codingblocks.net/
-* Feed: http://www.codingblocks.net/feed/
-* Twitter: [@codingblocks](https://twitter.com/codingblocks)
-* Frequency: monthly
-* Average Length: 1:53:50
 
 ### Compile Swift
 * Description: This podcast "discusses everything from Swift news and tools to the news and anything else that covers the programming language."
@@ -62,7 +54,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://contravariance.rocks
 * Feed: https://contravariance.rocks/feed.rss
 * Twitter: [@_contravariance](https://twitter.com/_contravariance)
-* Frequency: approximately triweekly
+* Frequency: intermittent
 * Average Length: 33:07
 
 ### Core Intuition
@@ -81,14 +73,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 36:33
 
-### Fireside Swift
-* Description: "Two buddies talk[] about a single programming concept each episode," for example optionals.
-* Website: http://cast.rocks/hosting/7479/feeds/IZO76.html
-* Feed: http://cast.rocks/hosting/7479/feeds/IZO76.xml
-* Twitter: [@swberard](https://twitter.com/swberard) [@zfalgout1](https://twitter.com/zfalgout1)
-* Frequency: intermittent
-* Average Length: 45:16
-
 ### iDeveloper Podcast
 * Description: A Mac and iOS developer/[guru](https://youtu.be/9VojuJpUuE8?list=PLdr22uU_wISqm9QbnczWxXs9qyuWpSU4k) discuss Apple-software development and other topics.
 * Website: http://blog.ideveloper.co
@@ -96,14 +80,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@macdevnet](https://twitter.com/macdevnet)
 * Frequency: intermittent
 * Average Length: 31:43
-
-### iOS Building Blocks
-* Description: An iOS developer interviews members of the community.
-* Website: https://youtube.com/ScottSmithDev
-* Feed: https://anchor.fm/s/b24b688/podcast/rss
-* Twitter: [@scottsmithdev](https://twitter.com/scottsmithdev)
-* Frequency: intermittent
-* Average Length: 42:42
 
 ### Infinitum
 * Description: An iOS developer and a 4D ninja discuss, in [Serbian](http://home.uchicago.edu/~vfriedm/Articles/243Friedman.pdf), Apple and related technologies.
@@ -126,7 +102,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://anchor.fm/seanallen
 * Feed: https://anchor.fm/s/5971378/podcast/rss
 * Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev)
-* Frequency: two to three times a week
+* Frequency: intermittent
 * Average Length: 24:00
 
 ### iOS Lead Essentials Podcast
@@ -161,14 +137,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: varies
 * Average Length: 35:29
 
-### Merge Conflict
-* Description: [Frank](http://github.com/praeclarum) and [James](http://github.com/jamesmontemagno), both cross-platform mobile developers focused on Xamarin, discuss various development topics.
-* Website: http://www.mergeconflict.fm
-* Feed: http://simplecast.com/podcasts/2117/Feed
-* Twitter: [@MergeConflictFM](https://twitter.com/MergeConflictFM)
-* Frequency: weekly
-* Average Length: 33:33
-
 ### More Than Just Code
 * Description: A rotating cast of iOS-developer hosts discuss news of interest to iOS developers.
 * Website: http://mtjc.fm
@@ -176,14 +144,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@mtjc_podcast](https://twitter.com/mtjc_podcast)
 * Frequency: weekly
 * Average Length: 1:31:26
-
-### Not Another Swift Podcast
-* Description: "NASP (Not Another Swift Podcast) is a podcast about Matt’s journey to his first iOS developer role and Jason’s experiences being a 'professional' iOS developer. Each week we discuss things Matt has learned, struggles he’s faced, and any questions he came up with. Jason also shares some of his experience related to the topics."
-* Website: http://notanotherswiftpodcast.com
-* Feed: https://anchor.fm/s/124027e0/podcast/rss
-* Twitter: [@swift_podcast](https://twitter.com/swift_podcast)
-* Frequency: weekly
-* Average Length: 1:23:42
 
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
@@ -210,7 +170,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 37:46
 
 ### Software Engineering Daily
-* Description: A former developer interviews one guest per episode about topics of interest to software developers.
+* Description: A former software developer interviews one guest per episode about topics of interest to software developers.
 * Website: http://softwareengineeringdaily.com
 * Feed: http://softwareengineeringdaily.com/feed/podcast/
 * Twitter: [@software_daily](https://twitter.com/software_daily)
@@ -226,7 +186,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 52:22
 
 ### Stacktrace
-* Description: A bi-weekly podcast by Guilherme Rambo and John Sundell about Apple news & rumors from a developer's perspective.
+* Description: A weekly podcast by Guilherme Rambo and John Sundell about Apple news & rumors from a developer's perspective.
 * Website: https://stacktracepodcast.fm
 * Feed: https://stacktracepodcast.fm/?format=rss
 * Twitter: [@stacktracepod](https://twitter.com/stacktracepod)
@@ -241,44 +201,12 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
-### The Swift Code Review Podcast
-* Description: In-depth technical analysis of Swift code, discussing pros and cons as they relate to iOS and server-side Swift development.
-* Website: https://jeffreyfulton.ca/swift-code-review
-* Feed: https://jeffreyfulton.ca/swift-code-review/feed
-* Twitter: [@jeffreyfultonca](https://twitter.com/jeffreyfultonca)
-* Frequency: intermittent but regular
-* Average Length: 20:36
-
-### Swift Community Podcast
-* Description: This is "a podcast for the Swift community, by the Swift community" hosted by three Swift developers, including a [creator](https://twitter.com/clattner_llvm) of LLVM and Swift.
-* Website: https://www.swiftcommunitypodcast.org
-* Feed: https://swiftcommunitypodcast.org/?format=rss
-* Twitter: [@theswiftpodcast](https://twitter.com/theswiftpodcast)
-* Frequency: intermittent
-* Average Length: 1:07:27
-
-### SwiftCraft Podcast
-* Description: Discussions with Swift experts around language features, third-party frameworks, developing for Apple platforms, and more.
-* Website: https://emanleet.com
-* Feed: https://emanleet.com/feed/podcast/
-* Twitter: [@emanleet](https://twitter.com/emanleet)
-* Frequency: monthly
-* Average Length: 50:02
-
-### Swift over Coffee
-* Description: This "is a podcast that helps you keep your Swift skills up to date the easy way, hosted by Paul Hudson and [a guest host]. Each episode has news, our picks of the week, plus an open ballot where you can share your views on important topics."
-* Website: https://anchor.fm/swiftovercoffee/
-* Feed: https://anchor.fm/s/572fc68/podcast/rss
-* Twitter: [@swiftovercoffee](https://twitter.com/swiftovercoffee)
-* Frequency: biweekly
-* Average Length: 26:20
-
 ### Swift Unwrapped
 * Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and the evolution thereof.
 * Website: https://spec.fm/podcasts/swift-unwrapped
 * Feed: https://simplecast.com/podcasts/2693/rss
 * Twitter: [@swiftlybrief](https://twitter.com/swiftlybrief)
-* Frequency: biweekly
+* Frequency: intermittent
 * Average Length: 37:37
 
 ### The Talk Show with John Gruber
@@ -294,7 +222,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://www.relay.fm/radar/
 * Feed: https://www.relay.fm/radar/feed
 * Twitter: [@_DavidSmith](http://twitter.com/_DavidSmith)
-* Frequency: weekly
+* Frequency: biweekly
 * Average Length: 29:24
 
 ### Waiting for Review
@@ -322,8 +250,10 @@ Dearly Departed Podcasts
 * Edge Cases
 * Einfach iOS
 * Fatal Error
+* Fireside Swift
 * Friday Q&A
 * iDeveloper Podcast
+* iOS Building Blocks
 * Hallo Swift
 * Hello Code
 * History of Rome
@@ -341,6 +271,7 @@ Dearly Departed Podcasts
 * Mobile Couch
 * Notification Center
 * NSBrief
+* Not Another Swift Podcast
 * The Omni Show
 * Playgrounds
 * El Podcast de Aprende iOS
@@ -349,11 +280,15 @@ Dearly Departed Podcasts
 * Runtime
 * Springboard
 * Supertop Podcast
+* Swift Code Review Podcast
+* Swift Community Podcast
 * Swift Life
+* Swift over Coffee
 * Swift Playhouse
 * Swift Teacher
 * SwiftCairo
 * SwiftCoders
+* SwiftCraft Podcast
 * Topical
 * Verbose Podcast
 * Worst Case Scenario
