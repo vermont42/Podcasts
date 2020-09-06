@@ -33,6 +33,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 33:14
 
+### Build Failed Podcast
+* Description: This Portuguese podcast is "about iOS, Swift and Computer Engineering. Every week, [the hosts discuss] quotodian topics [from their] work as developers and give tips on how to develop [one's] iOS career."
+* Website: https://soundcloud.com/build-failed-podcast
+* Feed: http://feeds.soundcloud.com/users/soundcloud:users:765654994/sounds.rss
+* Twitter: [@BuildFailedCast](https://twitter.com/BuildFailedCast)
+* Frequency: intermittent
+* Average Length: 34:44
+
 ### CacaoCast
 * Description: Two Quebecois software developers discuss their work and news from the Apple ecosystem.
 * Website: http://cacaocast.com/
@@ -40,6 +48,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@cacaocast](https://twitter.com/cacaocast)
 * Frequency: intermittent
 * Average Length: 1:02:43
+
+### Code Completion
+* Description: The hosts "are a group of iOS developers and educators hoping to share what [they] love most about development, Apple technology, and the life of a developer in today's marketplace. ... [They] discuss topics important to the Apple development community, as well as sometimes diving deep into technical topics and providing advice on how to complete ... code projects."
+* Website: https://codecompletion.fireside.fm
+* Feed: https://feeds.fireside.fm/codecompletion/rss
+* Twitter: [@CodeCompletion](https://twitter.com/CodeCompletion)
+* Frequency: weekly
+* Average Length: 52:13
 
 ### Compile Swift
 * Description: This podcast "discusses everything from Swift news and tools to the news and anything else that covers the programming language."
@@ -114,12 +130,20 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 52:03
 
 ### iPhreaks
-* Description: A panel of iOS developers discuss one iOS-development topic per episode, usually with a guest. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
+* Description: An iOS developer and another host discuss one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
 * Website: https://devchat.tv/iphreaks
 * Feed: http://feeds.feedwrench.com/iPhreaks.Feed
 * Twitter: [@devchattv](http://twitter.com/iphreaks)
 * Frequency: variable
 * Average Length: 55:19
+
+### Kopec Explains Software
+* Description: Rebecca and [David](https://flic.kr/p/btafUr) Kopec explore a variety of computing and software-development topics, including game-console emulators, operating systems, and text representation.
+* Website: http://kopec.live
+* Feed: https://pinecast.com/feed/kopec-explains-software
+* Twitter: [@kopecexplains](https://twitter.com/kopecexplains)
+* Frequency: weekly
+* Average Length: 28:02
 
 ### Launched
 * Description: "[T]he show talking to creators about launching their creations[, largely iOS apps,] into the world."
@@ -136,6 +160,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@adamawolf](https://twitter.com/adamawolf) (and others)
 * Frequency: varies
 * Average Length: 35:29
+
+### Mobile DevOps Is a Thing
+* Description: This "podcast features talks with — and about — mobile developers and their unique app development processes."
+* Website: https://blog.bitrise.io/mobile-devops-is-a-thing-a-podcast-by-bitrise
+* Feed: https://anchor.fm/s/122b4a14/podcast/rss
+* Twitter: [@bitrise](https://twitter.com/bitrise)
+* Frequency: monthly
+* Average Length: 54:13
 
 ### More Than Just Code
 * Description: A rotating cast of iOS-developer hosts discuss news of interest to iOS developers.
