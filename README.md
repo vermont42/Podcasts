@@ -73,6 +73,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 33:07
 
+### CoRecursive: Coding Stories
+* Description: "Each episode someone shares the fascinating story behind" how a piece of software, for example SQLite or Unix, were built.
+* Website: https://corecursive.com
+* Feed: https://corecursive.libsyn.com/feed
+* Twitter: [@corecursive](https://twitter.com/corecursive)
+* Frequency: monthly
+* Average Length: 44:58
+
 ### Core Intuition
 * Description: A social-network impresario and a macOS developer discuss business and, less frequently, more-technical subjects.
 * Website: http://www.coreint.org/
@@ -105,14 +113,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: biweekly
 * Average Length: 2:20:20
 
-### Inside iOS Dev
-* Description: The hosts, [Alex](https://twitter.com/alex_v_bush) and [Andrew](https://twitter.com/RohnAndrew), talk about their experience working on a legacy codebase that supports thousands of monthly users. They discuss everything from implementing specific features, to creating flexible designs, to utilizing refactoring techniques, and more.
-* Website: http://insideiosdev.com
-* Feed: https://rss.simplecast.com/podcasts/2720/rss
-* Twitter: [@insideiosdev](https://twitter.com/insideiosdev)
-* Frequency: intermittent
-* Average Length: 21:15
-
 ### iOS Dev Discussions
 * Description: The host, [Sean Allen](https://seanallen.co), "[d]iscuss[es] the world of iOS Development and the latest news in Swift." The podcast features replays of live streams and Swift News from Sean's YouTube [channel](https://youtube.com/seanallen), as well as interviews with iOS developers.
 * Website: https://anchor.fm/seanallen
@@ -128,14 +128,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@essentialdevcom](https://twitter.com/essentialdevcom)
 * Frequency: approximately biweekly
 * Average Length: 52:03
-
-### iPhreaks
-* Description: An iOS developer and another host discuss one iOS-development topic per episode. The intro riff is a perhaps-unintentional homage to Police guitarist [Andy](https://www.youtube.com/watch?v=ZSShauY8D3w) [Summers](https://www.youtube.com/watch?v=mbv-LcdLY-Y).
-* Website: https://devchat.tv/iphreaks
-* Feed: http://feeds.feedwrench.com/iPhreaks.Feed
-* Twitter: [@devchattv](http://twitter.com/iphreaks)
-* Frequency: variable
-* Average Length: 55:19
 
 ### Kopec Explains Software
 * Description: Rebecca and [David](https://flic.kr/p/btafUr) Kopec explore a variety of computing and software-development topics, including game-console emulators, operating systems, and text representation.
@@ -186,7 +178,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 1:09:12
 
 ### raywenderlich.com Podcast
-* Description: Two or three iOS developers and sometimes a guest discuss (usually) two iOS-development topics.
+* Description: Two or three mobile developers and sometimes a guest discuss (usually) two mobile-development topics.
 * Website: https://www.raywenderlich.com/rwpodcast
 * Feed: http://www.raywenderlich.com/category/podcast/feed
 * Twitter: [@rwenderlich](https://twitter.com/rwenderlich)
@@ -225,6 +217,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 1:14:07
 
+### Structure and Interpretation of Computer Programmers
+* Description: A former iOS developer, now a generalist developer, speaks about software-development topics. 
+* Website: http://www.sicpers.info
+* Feed: https://www.sicpers.info/feed/podcast
+* Twitter: [@iwasleeg](https://twitter.com/iwasleeg)
+* Frequency: biweekly
+* Average Length: 39:58
+
 ### Swift by Sundell
 * Description: An iOS developer and a guest answer questions from listeners about Swift, iOS development, and software development generally.
 * Website: https://www.swiftbysundell.com/podcast/
@@ -233,20 +233,12 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent but regular
 * Average Length: 47:59
 
-### Swift Unwrapped
-* Description: Two Swift develope[r](https://github.com/jpsim/SourceKitten)[s](http://www.jessesquires.com/swift-namespaced-constants/) discuss the Swift language and the evolution thereof.
-* Website: https://spec.fm/podcasts/swift-unwrapped
-* Feed: https://simplecast.com/podcasts/2693/rss
-* Twitter: [@swiftlybrief](https://twitter.com/swiftlybrief)
-* Frequency: intermittent
-* Average Length: 37:37
-
 ### The Talk Show with John Gruber
 * Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
 * Website: http://daringfireball.net/thetalkshow/
 * Feed: http://daringfireball.net/thetalkshow/Feed
 * Twitter: [@thetalkshow](https://twitter.com/thetalkshow)
-* Frequency: intermittent but at least three times a month
+* Frequency: intermittent but typically three times a month
 * Average Length: 1:56:40
 
 ### Under the Radar
@@ -258,7 +250,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 29:24
 
 ### Waiting for Review
-* Description: Two Daves discuss their journeys in the world of independent iOS development, from side-gigging to full time.
+* Description: An iOS developer and a guest discuss their journeys in the world of independent iOS development, from side-gigging to full time.
 * Website: https://waitingforreview.com
 * Feed: https://waitingforreview.com/feed/podcast/
 * Twitter: [@wfrpodcast](https://twitter.com/wfrpodcast)
@@ -286,12 +278,14 @@ Dearly Departed Podcasts
 * Friday Q&A
 * iDeveloper Podcast
 * iOS Building Blocks
+* The iPhreaks Show
 * Hallo Swift
 * Hello Code
 * History of Rome
 * Hypercritical
 * Identical Cousins
 * Import Foundation
+* Inside iOS Dev
 * Iterate Microcast
 * iOhYes
 * iOSBytes
@@ -321,6 +315,7 @@ Dearly Departed Podcasts
 * SwiftCairo
 * SwiftCoders
 * SwiftCraft Podcast
+* Swift Unwrapped
 * Topical
 * Verbose Podcast
 * Worst Case Scenario
