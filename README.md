@@ -193,14 +193,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: weekly
 * Average Length: 37:46
 
-### Software Engineering Daily
-* Description: A former software developer interviews one guest per episode about topics of interest to software developers.
-* Website: http://softwareengineeringdaily.com
-* Feed: http://softwareengineeringdaily.com/feed/podcast/
-* Twitter: [@software_daily](https://twitter.com/software_daily)
-* Frequency: daily
-* Average Length: 58:09
-
 ### Software Engineering Radio
 * Description: Various software-developer hosts talk to various software-developer guests about a variety of software-development topics. To quote the About page, "Episodes are either tutorials on specific topics, or interviews with well-known experts from the software engineering world."
 * Website: http://www.se-radio.net
