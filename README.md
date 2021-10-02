@@ -18,7 +18,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 [![🐋](https://img.shields.io/badge/whales-saved-yellowgreen)](https://savethewhales.org)
 
 ### Accidental Tech Podcast
-* Description: A Perl/JavaScript developer, a former Swift developer, and an Objective-C developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
+* Description: A Perl/JavaScript developer, a former Swift developer, and a PHP developer discuss news from the Apple ecosystem and [other](http://automobiles.honda.com/accord-sedan) topics.
 * Website: http://atp.fm/
 * Feed: http://atp.fm/episodes?format=Feed
 * Twitter: [@atpfm](https://twitter.com/atpfm)
@@ -34,7 +34,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 33:14
 
 ### Build Failed Podcast
-* Description: This Portuguese podcast is "about iOS, Swift and Computer Engineering. Every week, [the hosts discuss] quotodian topics [from their] work as developers and give tips on how to develop [one's] iOS career."
+* Description: This Portuguese podcast is "about iOS, Swift and Computer Engineering. Every week, [the hosts discuss] quotidian topics [from their] work as developers and give tips on how to develop [one's] iOS career."
 * Website: https://soundcloud.com/build-failed-podcast
 * Feed: http://feeds.soundcloud.com/users/soundcloud:users:765654994/sounds.rss
 * Twitter: [@BuildFailedCast](https://twitter.com/BuildFailedCast)
@@ -82,11 +82,11 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 44:58
 
 ### Core Intuition
-* Description: A social-network impresario and a macOS developer discuss business and, less frequently, more-technical subjects.
+* Description: A social-network impresario and a macOS developer discuss business and, less frequently, more technical subjects.
 * Website: http://www.coreint.org/
 * Feed: http://www.coreint.org/podcast.xml
 * Twitter: [@coreint](https://twitter.com/coreint)
-* Frequency: weekly
+* Frequency: nearly weekly
 * Average Length: 1:03:47
 
 ### Empower Apps
@@ -112,14 +112,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@infinitumcast](https://twitter.com/infinitumcast)
 * Frequency: biweekly
 * Average Length: 2:20:20
-
-### iOS Dev Discussions
-* Description: The host, [Sean Allen](https://seanallen.co), "[d]iscuss[es] the world of iOS Development and the latest news in Swift." The podcast features replays of live streams and Swift News from Sean's YouTube [channel](https://youtube.com/seanallen), as well as interviews with iOS developers.
-* Website: https://anchor.fm/seanallen
-* Feed: https://anchor.fm/s/5971378/podcast/rss
-* Twitter: [@seanallen_dev](https://twitter.com/seanallen_dev)
-* Frequency: intermittent
-* Average Length: 24:00
 
 ### iOS Lead Essentials Podcast
 * Description: A Greek and a Brazilian iOS developer discuss best coding practices, architecture, and career development.
@@ -194,12 +186,20 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 37:46
 
 ### Software Engineering Radio
-* Description: Various software-developer hosts talk to various software-developer guests about a variety of software-development topics. To quote the About page, "Episodes are either tutorials on specific topics, or interviews with well-known experts from the software engineering world."
+* Description: Various software-developer hosts talk to various software-developer guests about a variety of software-development topics. To quote the About page, "Episodes are either tutorials on specific topics or interviews with well-known experts from the software engineering world."
 * Website: http://www.se-radio.net
 * Feed: http://feeds.feedburner.com/se-radio
 * Twitter: [@seradio](https://twitter.com/seradio)
 * Frequency: biweekly to quadraweekly
 * Average Length: 52:22
+
+### Software World with Candost
+* Description: Host Candost Dagdeviren is "on a mission to make connections between the software industry and our individual and unique lives." He observes that "[w]e all have a common goal of solving problems with [...] software" and that "[w]hatever happens on our journeys will not stay mysterious anymore".
+* Website: https://candost.blog/podcast
+* Feed: https://anchor.fm/s/961a7d4/podcast/rss
+* Twitter: [@candosten](https://twitter.com/candosten)
+* Frequency: biweekly to quadraweekly
+* Average Length: 42:43
 
 ### Stacktrace
 * Description: A weekly podcast by Guilherme Rambo and John Sundell about Apple news & rumors from a developer's perspective.
@@ -226,7 +226,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 47:59
 
 ### The Talk Show with John Gruber
-* Description: A blogger and former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
+* Description: A former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
 * Website: http://daringfireball.net/thetalkshow/
 * Feed: http://daringfireball.net/thetalkshow/Feed
 * Twitter: [@thetalkshow](https://twitter.com/thetalkshow)
@@ -248,6 +248,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Twitter: [@wfrpodcast](https://twitter.com/wfrpodcast)
 * Frequency: weekly
 * Average Length: 35:55
+
+### Xcoders
+* Description: Jared Sorge interviews Apple-ecosystem developers in and/or from the Pacific Northwest.
+* Website: https://xcoders.org
+* Feed: https://xcoders.org/podcast.xml
+* Twitter: [@jsorge](https://twitter.com/jsorge)
+* Frequency: intermittent
+* Average Length: 37:37
 
 Dearly Departed Podcasts
 ========================
@@ -314,7 +322,7 @@ Dearly Departed Podcasts
 
 Credits
 =======
-Thanks to all the podcasts for sharing such amazing content.
+Thanks to all the podcasters for creating this content.
 
 Thanks to [iOS Dev Weekly](https://iosdevweekly.com), [Indie iOS Focus Weekly](https://indieiosfocus.curated.co), [Import Foundation](http://importfoundation.libsyn.com), [Launch Therapy](https://medium.com/@LaunchKit), [Michael Tsai](http://mjtsai.com), [Sean Allen](https://seanallen.co), and [iDeveloper Podcast](http://blog.ideveloper.co) for helping to publicize this list.
 
