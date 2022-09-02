@@ -29,7 +29,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Description: "[D]iscussing the latest updates, tools[,] and events relevant to iOS app developers." Includes interviews with "peers, teachers, [and] bloggers".
 * Website: https://appforce1.net
 * Feed: https://feeds.buzzsprout.com/1414396.rss
-* Twitter: [@](https://twitter.com/AppForce1)
+* Twitter: [@AppForce1](https://twitter.com/AppForce1)
 * Frequency: at least weekly
 * Average Length: 37:42
 
