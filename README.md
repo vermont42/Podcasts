@@ -86,7 +86,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://www.empowerapps.show
 * Feed: https://feeds.transistor.fm/empowerapps-show
 * Twitter: [@brightdigit](https://twitter.com/brightdigit)
-* Frequency: intermittent
+* Frequency: biweekly
 * Average Length: 36:33
 
 ### Infinitum
