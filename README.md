@@ -121,6 +121,14 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 1:09:12
 
+### Race Condition
+* Description: An extremely handsome _and_ intelligent iOS developer shares learnings from his work on side-project iOS apps _while_ making the the listener laugh.
+* Website: https://racecondition.software
+* Feed: https://feeds.buzzsprout.com/2077882.rss
+* Twitter: [@vermont42](https://twitter.com/vermont42)
+* Frequency: monthly
+* Average Length: 9:42
+
 ### Software Engineering Radio
 * Description: Various software-developer hosts talk to various software-developer guests about a variety of software-development topics. To quote the About page, "Episodes are either tutorials on specific topics or interviews with well-known experts from the software engineering world."
 * Website: http://www.se-radio.net
