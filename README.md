@@ -81,14 +81,6 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: nearly weekly
 * Average Length: 1:03:47
 
-### Empower Apps
-* Description: "An episodic exploration of Apple technology and how businesses can utilize technology to empower their business and employees, from Leo Dion, founder of BrightDigit."
-* Website: https://www.empowerapps.show
-* Feed: https://feeds.transistor.fm/empowerapps-show
-* Twitter: [@brightdigit](https://twitter.com/brightdigit)
-* Frequency: biweekly
-* Average Length: 36:33
-
 ### Infinitum
 * Description: An iOS developer and a 4D ninja discuss, in [Serbian](http://home.uchicago.edu/~vfriedm/Articles/243Friedman.pdf), Apple and related technologies.
 * Website: http://www.infinitum.rs
