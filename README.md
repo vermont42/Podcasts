@@ -30,7 +30,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://appforce1.net
 * Feed: https://feeds.buzzsprout.com/1414396.rss
 * Twitter: [@AppForce1](https://twitter.com/AppForce1)
-* Frequency: at least weekly
+* Frequency: intermittent
 * Average Length: 37:42
 
 ### Build Failed Podcast
@@ -54,7 +54,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://codecompletion.fireside.fm
 * Feed: https://feeds.fireside.fm/codecompletion/rss
 * Twitter: [@CodeCompletion](https://twitter.com/CodeCompletion)
-* Frequency: weekly
+* Frequency: about three times a month
 * Average Length: 52:13
 
 ### Compile Swift
@@ -63,7 +63,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Feed: https://anchor.fm/s/bd86b38/podcast/rss
 * Twitter: [@CompileSwift](https://twitter.com/CompileSwift)
 * Frequency: intermittent but frequent
-* Average Length: 10:55
+* Average Length: 17:55
 
 ### CoRecursive: Coding Stories
 * Description: "Each episode someone shares the fascinating story behind" how a piece of software, for example SQLite or Unix, were built.
@@ -81,12 +81,20 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: nearly weekly
 * Average Length: 1:03:47
 
+### Cup of Tech
+* Description: This is "a casual conversation about tech, Apple, programming, and sometimes unrelated topics".
+* Website: http://cupof.tech
+* Feed: https://pinecast.com/feed/so-cast
+* Twitter: [@cupof_tech](https://twitter.com/cupof_tech)
+* Frequency: intermittent
+* Average Length: 1:52:43
+
 ### Infinitum
 * Description: An iOS developer and a 4D ninja discuss, in [Serbian](http://home.uchicago.edu/~vfriedm/Articles/243Friedman.pdf), Apple and related technologies.
 * Website: http://www.infinitum.rs
 * Feed: http://simplecast.com/podcasts/320/rss
 * Twitter: [@infinitumcast](https://twitter.com/infinitumcast)
-* Frequency: biweekly
+* Frequency: two or three times a month
 * Average Length: 2:20:20
 
 ### Kopec Explains Software
@@ -97,13 +105,13 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: biweekly
 * Average Length: 28:02
 
-### Mobile DevOps Is a Thing
-* Description: This "podcast features talks with — and about — mobile developers and their unique app development processes."
-* Website: https://blog.bitrise.io/mobile-devops-is-a-thing-a-podcast-by-bitrise
-* Feed: https://anchor.fm/s/122b4a14/podcast/rss
-* Twitter: [@bitrise](https://twitter.com/bitrise)
-* Frequency: monthly
-* Average Length: 54:13
+### More Than Just Code
+* Description: This "is the perfect source for iOS and Swift developers looking to stay up-to-date on the latest news and trends in the field".
+* Website: https://mtjc.fireside.fm
+* Feed: https://feeds.fireside.fm/mtjc/rss
+* Twitter: [@mtjc_podcast](https://twitter.com/mtjc_podcast)
+* Frequency: intermittent
+* Average Length: 1:42:03
 
 ### Programming Throwdown
 * Description: Two developers discuss one software-development topic per episode, sometimes with guests. The hosts also recommend books and technologies of general software-developer interest.
@@ -118,7 +126,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Website: https://racecondition.software
 * Feed: https://feeds.buzzsprout.com/2077882.rss
 * Twitter: [@vermont42](https://twitter.com/vermont42)
-* Frequency: monthly
+* Frequency: TBD but more frequent in late 2023
 * Average Length: 9:42
 
 ### Software Engineering Radio
@@ -137,13 +145,13 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 1:14:07
 
-### Swift by Sundell
-* Description: An iOS developer and a guest answer questions from listeners about Swift, iOS development, and software development generally.
-* Website: https://www.swiftbysundell.com/podcast/
-* Feed: https://john-sundell.squarespace.com/podcast?format=rss
-* Twitter: [@swiftbysundell](https://twitter.com/swiftbysundell)
-* Frequency: intermittent
-* Average Length: 47:59
+### Swift Packaging Index
+* Description: "Join Dave and Sven, the creators of the Swift Package Index open-source project, as they talk about progress on the project and discuss a new set of community package recommendations every episode."
+* Website: https://swiftpackageindexing.transistor.fm
+* Feed: https://feeds.transistor.fm/swift-package-indexing
+* Socials: [@finestructure](https://mastodon.social/@finestructure) [@daveverwer](https://twitter.com/daveverwer)
+* Frequency: biweekly
+* Average Length: 41:55
 
 ### The Talk Show with John Gruber
 * Description: A former Perl developer discusses with a guest news from the Apple ecosystem, often addressing topics of interest to developers. Interviews with Apple executives are particularly enlightening.
@@ -162,11 +170,11 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Average Length: 29:24
 
 ### Waiting for Review
-* Description: An iOS developer and a guest discuss their journeys in the world of independent iOS development, from side-gigging to full time.
+* Description: An iOS-development coach and the developer of Telemetry Deck catch up fortnightly.
 * Website: https://waitingforreview.com
 * Feed: https://waitingforreview.com/feed/podcast/
 * Twitter: [@wfrpodcast](https://twitter.com/wfrpodcast)
-* Frequency: intermittent
+* Frequency: fortnightly
 * Average Length: 35:55
 
 Dearly Departed Podcasts
@@ -212,7 +220,7 @@ Dearly Departed Podcasts
 * Lyft Mobile Podcast
 * Mobile & Beer
 * Mobile Couch
-* More Than Just Code
+* Mobile DevOps Is a Thing
 * Notification Center
 * NSBrief
 * Not Another Swift Podcast
@@ -228,6 +236,7 @@ Dearly Departed Podcasts
 * Springboard
 * Structure and Interpretation of Computer Programmers
 * Supertop Podcast
+* Swift by Sundell
 * Swift Code Review Podcast
 * Swift Community Podcast
 * Swift Life
