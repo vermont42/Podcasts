@@ -145,7 +145,7 @@ Inactive podcasts are periodically culled but are happily re-added when appropri
 * Frequency: intermittent
 * Average Length: 1:14:07
 
-### Swift Packaging Index
+### Swift Package Indexing
 * Description: "Join Dave and Sven, the creators of the Swift Package Index open-source project, as they talk about progress on the project and discuss a new set of community package recommendations every episode."
 * Website: https://swiftpackageindexing.transistor.fm
 * Feed: https://feeds.transistor.fm/swift-package-indexing
